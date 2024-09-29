@@ -1,0 +1,389 @@
+fid,ART,NAME_DT,NAME_LAT,BHD,KRONE_D,HOEHE,KOMMENTAR
+1,Laubbaum,Winterlinde,Tilia cordata,0.38,10,12.4,"8 qm, Rindenmulch "
+2,Laubbaum,Winterlinde,Tilia cordata,0.36,10,12,"8 qm, Rindenmulch "
+3,Laubbaum,Winterlinde,Tilia cordata,0.57,15.5,16.2,"8 qm,  Rindenmulch"
+4,Laubbaum,Amerikanische Gleditschie,Gleditisia triacanthos,0.4,12.7,11.5,
+5,Laubbaum,Amerikanische Gleditschie,Gleditisia triacanthos,0.35,10.7,11.5,
+6,Laubbaum,Winterlinde,Tilia cordata,0.2,7,8.3,"3 qm,  verdichteter Boden"
+7,Laubbaum,Winterlinde,Tilia cordata,0.2,6.2,8.4,"3 qm,  verdichteter Boden"
+8,Laubbaum,Winterlinde,Tilia cordata,0.2,5.5,8.7,"3 qm,  verdichteter Boden"
+9,Laubbaum,Winterlinde,Tilia cordata,0.28,7.5,12.8,"3 qm,  verdichteter Boden"
+10,Laubbaum,Winterlinde,Tilia cordata,0.2,7,8.4,"3 qm,  verdichteter Boden"
+11,Laubbaum,Winterlinde,Tilia cordata,0.21,7.5,10,"3 qm,  verdichteter Boden"
+12,Laubbaum,Winterlinde,Tilia cordata,0.23,7,9.9,"3 qm, verdichteter Boden"
+13,Laubbaum,Gewöhnliche Rosskastanie,Aesculus hippocastanum,0.33,8.4,9.3,3 qm 
+14,Laubbaum,Spitzahorn,Acer platanoides,0.23,8.3,10.1,"4 qm, Rigole mit Spontanbewuchs "
+15,Laubbaum,Bergahorn,Acer pseudoplatanus,0.19,5,8.5,BHD geschätzt
+16,Laubbaum,Bergahorn,Acer pseudoplatanus,0.24,6,12.2,
+17,Laubbaum,Bergahorn,Acer pseudoplatanus,0.17,5.5,8,
+18,Laubbaum,Bergahorn,Acer pseudoplatanus,0.24,6,11.2,
+19,Laubbaum,Winterlinde,Tilia cordata,0.36,10,16.1,
+20,Laubbaum,Papierbirke,Betula papyrifera,0.2,7.6,8.7,
+21,Laubbaum,Grau-Erle,Alnus incana,0.34,8,7.9,
+22,Laubbaum,Winterlinde,Tilia cordata,0.23,7,9.5,
+23,Nadelbaum,Schwarzkiefer,Pinus nigra ssp. Nigra,0.28,5.7,11.8,
+24,Nadelbaum,Schwarzkiefer,Pinus nigra ssp. Nigra,0.3,8.3,9.2,
+25,Nadelbaum,Schwarzkiefer,Pinus nigra ssp. Nigra,0.36,9.3,10.2,
+26,Laubbaum,Hainbuche,Carpinus betulus,0.33,10.4,11.6,
+27,Laubbaum,Winterlinde,Tilia cordata,0.57,17.2,12.1,"9 qm, Rindenmulch "
+38,Laubbaum,Winterlinde,Tilia cordata,0.36,0.5,14.5,"4 qm, Bank über Baumscheibe "
+39,Laubbaum,Winterlinde,Tilia cordata,0.29,7.2,9,"4 qm, Bank über Baumscheibe"
+40,Laubbaum,Winterlinde,Tilia cordata,0.28,7.2,12.7,"4 qm, Bank über Baumscheibe "
+41,Laubbaum,Winterlinde,Tilia cordata,0.26,8,12,"4 qm,  Rindenmulch "
+42,Laubbaum,Winterlinde,Tilia cordata,0.23,6,10.7,"4 qm,  Rindenmulch "
+43,Laubbaum,Winterlinde,Tilia cordata,0.3,8.5,13,"4 qm,  Rindenmulch"
+44,Laubbaum,Winterlinde,Tilia cordata,0.25,7,12.2,"4 qm,  Bank über Baumscheibe"
+45,Laubbaum,Winterlinde,Tilia cordata,0.24,8.7,13,"4 qm,  Rabatte mit Zierpflanzen "
+46,Laubbaum,Amerikanischer Amberbaum,Liquidamber styraciflua,0.07,2,5.8,"4 qm,  Rabatte mit Zierbepflanzung"
+47,Laubbaum,Winterlinde,Tilia cordata,0.2,5,10.9,"4 qm,  Rindenmulch"
+48,Laubbaum,Winterlinde,Tilia cordata,0.22,4,9.9,"4 qm,  Rindenmulch,  Schädlingsbefall"
+49,Laubbaum,Spitzahorn,Acer platanoides,0.2,8.7,13.2,
+50,Laubbaum,Spitzahorn,Acer platanoides,0.32,10.5,12.7,
+51,Laubbaum,Winterlinde,Tilia cordata,0.55,14.2,14,BHD geschätzt 
+52,Laubbaum,Winterlinde,Tilia cordata,0.25,8.6,12.1,
+53,Laubbaum,Winterlinde,Tilia cordata,0.22,9,11.7,
+54,Laubbaum,Winterlinde,Tilia cordata,0.35,10.1,13,
+55,Laubbaum,Winterlinde,Tilia cordata,0.33,8.6,9.1,
+56,Laubbaum,Winterlinde,Tilia cordata,0.27,10.2,11.8,
+57,Laubbaum,Winterlinde,Tilia cordata,0.29,9.6,12.3,
+58,Laubbaum,Winterlinde,Tilia cordata,0.26,9.4,10.8,
+59,Laubbaum,Götterbaum,Ailanthus altissima,0.42,18.5,11.3,Drüsiger Götterbaum?
+60,Laubbaum,Götterbaum,Ailanthus altissima,0.34,15.8,14.2,Drüsiger Götterbaum?
+61,Laubbaum,,,,,,
+62,Laubbaum,,,,,,
+63,Laubbaum,,,,,,
+64,Laubbaum,,,,,,
+65,Laubbaum,,,,,,
+66,Laubbaum,,,,,,
+67,Laubbaum,,,,,,
+68,Laubbaum,,,,,,
+69,Laubbaum,,,,,,
+70,Laubbaum,,,,,,
+71,Laubbaum,,,,,,
+72,Laubbaum,Götterbaum,Ailanthus altissima,0.37,13.6,11,
+73,Laubbaum,,,,,,
+74,Laubbaum,,,,,,
+75,Nadelbaum,,,,,,
+76,Laubbaum,Erle,,,,,Gefällt? Nicht vorhanden
+77,Nadelbaum,Winterlinde,Tilia cordata,0.33,10.7,13.8,
+78,Laubbaum,Winterlinde,Tilia cordata,0.33,10.8,15,
+79,Laubbaum,Winterlinde,Tilia cordata,0.31,7.5,15.5,
+80,Laubbaum,Winterlinde,Tilia cordata,0.23,7.3,11.6,
+81,Laubbaum,Winterlinde,Tilia cordata,0.35,8.3,12,
+82,Laubbaum,Winterlinde,Tilia cordata,0.26,8.7,12.5,
+83,Laubbaum,Winterlinde,Tilia cordata,0.24,8.2,12.3,
+84,Laubbaum,Winterlinde,Tilia cordata,0.3,11,14.6,
+85,Laubbaum,Winterlinde,Tilia cordata,0.3,9.5,13.6,
+86,Laubbaum,Winterlinde,Tilia cordata,0.28,8.5,10.3,"4 qm,  Metallrigole"
+87,Laubbaum,Winterlinde,Tilia cordata,0.25,6.4,9.5,"4 qm,  Metallrigole"
+91,Laubbaum,Hainbuche,Carpinus betulus,0.23,7.5,10.5,
+92,Laubbaum,Hainbuche,Carpinus betulus,0.17,7.8,11.7,2 Stämme a 0.17 m
+93,Laubbaum,Schwarzkiefer,Pinus nigra ssp. Nigra,0.37,11.4,14.8,
+94,Laubbaum,Amerikanische Gleditschie,Gleditisia triacanthos,0.51,14.6,16.8,
+95,Laubbaum,Schwarzkiefer,Pinus nigra ssp. Nigra,0.38,9.5,12.3,
+96,Laubbaum,,,,,,Gefällt? Nicht vorhanden 
+97,Laubbaum,Hainbuche,Carpinus betulus,0.36,11,9.9,
+98,Laubbaum,Winterlinde,Tilia cordata,0.35,10.2,14.5,
+99,Laubbaum,Spitzahorn,Acer platanoides,0.3,12.7,11.9,
+100,Laubbaum,Spitzahorn,Acer platanoides,0.29,11,12.5,
+101,Laubbaum,Spitzahorn,Acer platanoides,0.3,9,9.8,BHD geschätzt
+102,Laubbaum,Spitzahorn,Acer platanoides,0.35,12,13.1,BHD geschätzt
+103,Laubbaum,Spitzahorn,Acer platanoides,0.32,12,8.8,BHD geschätzt
+104,Laubbaum,Winterlinde,Tilia cordata,0.24,6.9,10.3,
+105,Laubbaum,Winterlinde,Tilia cordata,0.23,9,10.4,
+106,Laubbaum,Winterlinde,Tilia cordata,0.29,7.4,10,
+107,Laubbaum,Winterlinde,Tilia cordata,0.07,3.2,5.4,
+108,Laubbaum,Winterlinde,Tilia cordata,0.18,6,8,
+109,Laubbaum,Winterlinde,Tilia cordata,0.25,8,9.9,Noch im falschen Biotop ->muss auf die Brücke 
+110,Laubbaum,Winterlinde,Tilia cordate,0.4,12,16,"BHD, Höhe und Krone geschätzt, nachkartiert"
+111,Laubbaum,Winterlinde,Tilia cordata,0.36,10.5,15.2,
+112,Laubbaum,Winterlinde,Tilia cordata,0.18,6.2,10.2,
+113,Laubbaum,Südlicher Zürgelbaum,Celtis australis,0.21,7.7,7.2,"5 qm, verdichtete Erde "
+114,Laubbaum,Südlicher Zürgelbaum,Celtis australis,0.25,7.7,7.4,"5 qm, verdichtete Erde "
+115,Laubbaum,Bergahorn,Acer pseudoplatanus,0.27,7,9.7,"4 qm, Rigole"
+116,Laubbaum,Japanische Blütenkirsche,Prunus serrulata,0.08,3.2,4.3,
+117,Laubbaum,Japanische Blütenkirsche,Prunus serrulata,0.09,3,4.9,
+118,Laubbaum,Japanische Blütenkirsche,Prunus serrulata,0.1,2.6,5,
+119,Laubbaum,Japanische Blütenkirsche,Prunus serrulata,0.07,1.6,4.7,
+130,Laubbaum,Feldahorn,Acer campestre,0.26,6.6,8.8,"4 qm, Rigole mit Stammgitter"
+131,Laubbaum,Feldahorn,Acer campestre,0.24,6,7.3,"4 qm, Rigole mit Stammgitter"
+132,Laubbaum,Feldahorn,Acer campestre,0.22,5.8,7.2,"4 qm, Rigole mit Stammgitter"
+133,Laubbaum,Feldahorn,Acer campestre,0.34,8.4,10.4,"4 qm, Rigole mit Stammschutz"
+134,Laubbaum,Feldahorn,Acer campestre,0.3,7.9,8.5,"4 qm, Rigole mit Stammgitter"
+135,Laubbaum,Hainbuche,Carpinus betulus,0.14,3.6,6.7,"4 qm, Bank über Baumscheibe"
+136,Laubbaum,Hainbuche,Carpinus betulus,0.11,3.6,6.9,"4 qm,  Rindenmulch mit Spontanbewuchs"
+137,Laubbaum,Hainbuche,Carpinus betulus,0.13,6.5,8.2,"4 qm,  Rabatte mit Zierpflanzen"
+138,Laubbaum,Platane,Platanus x acerifolia,0.26,5.5,4.2,"4 qm, Rigole, Kopfbaum"
+139,Laubbaum,Platane,Platanus x acerifolia,0.28,6,4.5,"4 qm, Rigole, Kopfbaum"
+140,Laubbaum,Platane,Platanus x acerifolia,0.28,6.5,4.3,"4 qm, Rigole, Kopfbaum"
+141,Laubbaum,Platane,Platanus x acerifolia,0.28,6.5,4.4,"4 qm, Rigole, Kopfbaum "
+142,Laubbaum,Platane,Platanus x acerifolia,0.2,4.7,4.6,"4 qm, Rigole, Kopfbaum"
+143,Laubbaum,Platane,Platanus x acerifolia,0.23,4,4.8,"4 qm, Rigole, Kopfbaum"
+144,Laubbaum,Platane,Platanus x acerifolia,0.18,4.1,4.1,"4 qm, Rigole, Kopfbaum"
+145,Laubbaum,Platane,Platanus x acerifolia,0.19,3.2,4,"4 qm, Rigole, Kopfbaum"
+146,Laubbaum,Platane,Platanus x acerifolia,0.2,3.2,4.2,"4 qm, Rigole, Kopfbaum"
+147,Laubbaum,Platane,Platanus x acerifolia,0.18,3.8,4.2,"4 qm, Rigole, Kopfbaum"
+150,Laubbaum,,,,,,
+151,Laubbaum,,,,,,
+152,Laubbaum,,,,,,
+153,Laubbaum,,,,,,BHD < 0.05 m
+154,Laubbaum,Tulpenbaum,Liriodendron tulipifera,0.06,1.3,5.1,"3 qm, Spontanbewuchs"
+155,Laubbaum,Winterlinde,Tilia cordata,0.18,7.2,8.6,"4 qm, Betonrigole mit Stammgitter "
+156,Laubbaum,Winterlinde,Tilia cordata,0.15,5,7.6,"4 qm, Betonrigole mit Stammgitter"
+157,Laubbaum,Hainbuche,Carpinus betulus,0.11,6.2,8,3 Stämme a 0.11 m
+158,Laubbaum,Winterlinde,Tilia cordata,0.29,11,14.6,4 qm Rigole
+159,Laubbaum,Winterlinde,Tilia cordata,0.19,7,9.7,4 qm Rigole
+160,Laubbaum,Winterlinde,Tilia cordata,0.2,8.5,9.4,4 qm Rigole
+161,Laubbaum,Platane,Platanus x acerifolia,0.2,4,4.2,"4 qm, Kies, Kopfbaum"
+162,Laubbaum,Platane,Platanus x acerifolia,0.16,4,4.1,"4 qm, Rigole, Kopfbaum"
+163,Laubbaum,Platane,Platanus x acerifolia,0.16,4,4.2,"4 qm, Rigole, Kopfbaum"
+164,Laubbaum,Platane,Platanus x acerifolia,0.16,3.9,4.5,"4 qm, Rigole, Kopfbaum"
+165,Laubbaum,Platane,Platanus x acerifolia,0.16,3.9,4.3,"4 qm, Rigole, Kopfbaum"
+166,Laubbaum,Platane,Platanus x acerifolia,0.16,3.9,4,"4 qm, Rigole, Kopfbaum"
+167,Laubbaum,Winterlinde,Tilia cordata,0.25,8,13.9,"4 qm,  Rabatte mit Zierpflanzen"
+168,Laubbaum,Hainbuche,Carpinus betulus,0.06,1.7,2.1,2 Hauptstämme a 0.06 m
+169,,Hainbuche,Carpinus betulus,0.09,6,6.3,4 Hauptstämme a 0.09 m
+170,Laubbaum,Japanische Blütenkirsche,Prunus serrulata,0.2,6.8,5,
+171,Laubbaum,Japanische Blütenkirsche,Prunus serrulata,0.18,4.9,5.6,BHD geschätzt
+172,Laubbaum,Japanische Blütenkirsche,Prunus serrulata,0.2,6.9,5.3,BHD geschätzt
+173,Laubbaum,Japanische Blütenkirsche,Prunus serrulata,0.08,1.7,4.6,BHD und Krone geschätzt
+174,Laubbaum,Winterlinde,Tilia cordata,0.48,9,13.2,"6 qm, verdichteter Boden "
+175,Laubbaum,Amerikanischer Amberbaum,Liquidamber styraciflua,0.2,5.4,10.5,"4 qm, Rigole"
+176,Laubbaum,Amerikanischer Amberbaum,Liquidambar  styraciflua,0.17,4.4,8.5,"4 qm, Rigole"
+192,Laubbaum,Winterlinde,Tilia cordata,0.19,6.5,8.2,"3 qm, bewachsen mit Kartoffelrose"
+193,Laubbaum,Hainbuche,Carpinus betulus,0.27,5.7,10.7,"3 qm, Rigole mit Spontanbewuchs "
+194,Laubbaum,Hainbuche,Carpinus betulus,0.31,6.3,11.8,"3 qm, Rigole"
+195,Laubbaum,Hainbuche,Carpinus betulus,0.25,6.8,11.7,"3 qm, Rigole"
+196,Laubbaum,Hainbuche,Carpinus betulus,0.3,7,12.9,"3 qm, Rigole mit Spontanbewuchs "
+197,Laubbaum,Winterlinde,Tilia cordata,0.17,4,8.5,"3 qm, bewachsen mit Kartoffelrose"
+198,Laubbaum,Winterlinde,Tilia cordata,0.16,6,8.6,"3 qm, bewachsen mit Kartoffelrose"
+199,Laubbaum,Winterlinde,Tilia cordata,0.16,5.7,7.7,"3 qm, bewachsen mit Kartoffelrose"
+200,Laubbaum,Feldahorn,Acer campestre,0.14,4.7,6.5,"3 qm,  verdichteter Boden "
+201,Laubbaum,Feldahorn,Acer campestre,0.12,4.8,7,"3 qm, verdichteter Boden "
+202,Laubbaum,Hainbuche,Carpinus betulus,0.14,5.7,10.1,"5 an, Rigole aus Beton, 1.5 qm verdichteter Boden"
+203,Laubbaum,Hainbuche,Carpinus betulus,0.07,3,5.8,"5 qm, Betonrigole "
+204,Laubbaum,Hainbuche,Carpinus betulus,0.06,2,5.6,"5 qm, Betonrigole "
+205,Laubbaum,Hainbuche,Carpinus betulus,0.1,4,8,"5 qm, Betonrigole"
+206,Laubbaum,Hainbuche,Carpinus betulus,0.11,5.5,8,"5 qm, Betonrigole"
+207,Laubbaum,Hainbuche,Carpinus betulus,0.13,6,10.2,"5 qm,  Betonrigole"
+208,Laubbaum,Hainbuche,Carpinus betulus,0.13,4.6,9.3,"5 qm, Betonrigole "
+209,Laubbaum,Hainbuche,Carpinus betulus,0.11,4.5,8.6,"5 qm, Betonrigole"
+210,Laubbaum,Hainbuche,Carpinus betulus,0.13,4.5,9.5,"4 qm, Betonrigole "
+211,Laubbaum,Hainbuche,Carpinus betulus,0.13,3.7,9.9,"4 qm, Betonrigole"
+212,Laubbaum,Hainbuche,Carpinus betulus,0.12,4.5,9.6,"4 qm, Betonrigole"
+213,Laubbaum,Hainbuche,Carpinus betulus,0.12,4.5,9.9,"4 qm, Betonrigole"
+214,Laubbaum,Südlicher Zürgelbaum,Celtis australis,0.17,5.7,6.4,"5 qm, verdichtete Erde mit Spontanbewuchs"
+215,Laubbaum,Spitzahorn,Acer platanoides,0.21,7,9.4,"4 qm, Betonrigole mit Kartoffelrose "
+216,Laubbaum,Spitzahorn,Acer platanoides,0.21,8.5,9.3,"4 qm, Betonrigole mit Kartoffelrose "
+217,Laubbaum,Spitzahorn,Acer platanoides,0.18,5.7,7.5,"4 qm,  Betonrigole mit Kartoffelrose "
+218,Laubbaum,Spitzahorn,Acer platanoides,0.21,4.2,11.9,"6 qm, Kartoffelrose und Spontanbewuchs "
+219,Laubbaum,Spitzahorn,Acer platanoides,0.2,4.8,10.7,"4 qm, Betonrigole mit Kartoffelrose "
+220,Laubbaum,Hainbuche,Carpinus betulus,0.2,7,8,"3 qm, mit Kartoffelrosen "
+221,Laubbaum,Hainbuche,Carpinus betulus,0.12,5.6,7.4,"3 qm, mit Kartoffelrosen "
+222,Laubbaum,Hainbuche,Carpinus betulus,0.6,2.3,5.4,"3 qm, mit Kartoffelrosen "
+223,Laubbaum,Blumen-Esche,Fraxinus ornus,0.17,5.2,5.4,"3 qm, Spontanbewuchs/ Bodendecker "
+224,Laubbaum,Blumen-Esche,Fraxinus ornus,0.17,5,5,"3 qm, Spontanbewuchs/ Bodendecker "
+225,Laubbaum,Blumen-Esche,Fraxinus ornus,0.19,5.1,5.3,"3 qm, Spontanbewuchs/ Bodendecker"
+226,Laubbaum,Blumen-Esche,Fraxinus ornus,0.18,5.2,5.4,"3 qm, Spontanbewuchs/ Bodendecker"
+227,Laubbaum,Blumen-Esche,Fraxinus ornus,0.18,5.3,5.4,"3 qm, Spontanbewuchs "
+228,Laubbaum,Blumen-Esche,Fraxinus ornus,0.19,5.8,5.6,"3 qm,  Spontanbewuchs"
+229,Laubbaum,Platane,Platanus x acerifolia,0.65,19,18.2,
+230,Nadelbaum,Platane,Platanus x acerifolia,0.8,23,19.7,
+231,Laubbaum,Platane,Platanus x acerifolia,0.84,21,18.3,
+232,Laubbaum,Südlicher Zürgelbaum,Celtis australis,0.23,9.8,8.4,
+233,Laubbaum,Platane,Platanus x acerifolia,0.94,26.1,18.2,
+234,Laubbaum,Platane,Platanus x acerifolia,0.38,14.5,17.5,
+235,Laubbaum,Amerikanische Gleditschie,Gleditisia triacanthos,0.27,10,10,
+236,Laubbaum,,,,,,
+237,Laubbaum,Amerikanische Gleditschie,Gleditisia triacanthos,0.3,11.8,13.5,
+238,Nadelbaum,Feldahorn,Acer campestre,0.25,5.6,11.5,
+239,Laubbaum,Spitzahorn,Acer platanoides,0.31,11.5,12.2,
+240,Laubbaum,,,,,,
+241,Laubbaum,,,,,,
+242,Laubbaum,,,,,,
+243,Laubbaum,,,,,,
+244,Laubbaum,,,,,,
+245,Laubbaum,Japanischer Schnurbaum,Sophora japonica,0.39,12,14.3,
+246,Laubbaum,Japanischer Schnurbaum,Sophora japonica,0.63,15,14,
+247,Laubbaum,Japanischer Schnurbaum,Sophora japonica,0.4,19,11.4,
+248,Laubbaum,Winterlinde,Tilia cordata,0.3,11.5,16.1,
+249,Laubbaum,Winterlinde,Tilia cordata,0.31,12.5,15.6,
+250,Laubbaum,Winterlinde,Tilia cordata,0.36,3.5,17.5,
+251,Laubbaum,Winterlinde,Tilia cordata,0.37,11,16.9,
+252,Nadelbaum,Japanischer Schnurbaum,Sophora japonica,0.26,11.3,7.9,
+253,Nadelbaum,Bergahorn,Acer pseudoplatanus,0.33,10.7,10.1,2 Stämme a ca.  0.33 m
+258,Laubbaum,Gewöhnliche Rosskastanie,Aesculus hippocastanum,0.7,13,11.7,BHD geschätzt
+259,Nadelbaum,Spitzahorn,Acer platanoides,0.16,3,3.5,"3 qm,  Kies"
+260,Laubbaum,Ginkgo,Ginkgo biloba,0.09,1.5,3.7,
+261,Laubbaum,,,,,,BHD < 0.05 m
+262,Laubbaum,,,,,,
+263,Laubbaum,,,,,,
+264,Laubbaum,,,,,,
+265,Nadelbaum,,,,,,
+266,Nadelbaum,Hainbuche,Carpinus betulus,0.18,7,10.8,
+267,Laubbaum,Japanischer Wildapfel,Malus floribunda,0.15,9,4.4,15 Stämme a 0.15 m
+268,Laubbaum,Hainbuche,Carpinus betulus,0.08,3.3,5.5,2 Stämme a 0.08
+269,Laubbaum,Kleinfruchtiger Zierapfel,Malus toringo,0.06,4,3,
+270,Laubbaum,,,,,,Gefällt? Nicht vorhanden 
+271,Nadelbaum,Pagoden-Hartriegel,Cornus controversa,0.07,5.5,4.6,5 Stämme a 0.07 m
+272,Nadelbaum,,,,,,
+273,Nadelbaum,,,,,,
+274,Nadelbaum,,,,,,
+275,Nadelbaum,Hainbuche,Carpinus betulus,0.3,7,7.4,
+276,Nadelbaum,,,,,,
+277,Laubbaum,,,,,,
+278,Laubbaum,Hainbuche,Carpinus betulus,0.24,8,9.5,
+279,Laubbaum,Europäische Eibe,Taxus baccata,0.13,5,6.9,4 Stämme a ca.  0.13
+280,Laubbaum,Hainbuche,Carpinus betulus,0.35,11.9,8.2,BHD geschätzt 
+281,Laubbaum,Hainbuche,Carpinus betulus,0.3,10,12.3,BHD geschätzt 
+282,Nadelbaum,,,,,,
+283,Laubbaum,,,,,,
+284,Laubbaum,,,,,,
+285,Laubbaum,,,,,,
+286,Laubbaum,,,,,,
+287,Laubbaum,,,,,,
+288,Laubbaum,,,,,,
+289,Laubbaum,,,,,,
+290,Nadelbaum,Blumen-Esche,Fraxinus ornus,0.07,2.4,4,"3 qm, Rigole mit Stammgitter "
+291,Laubbaum,Blumen-Esche,Fraxinus ornus,0.07,2.2,3.7,"3 qm, Rigole mit Stammgitter "
+292,Laubbaum,Blumen-Esche,Fraxinus ornus,0.08,2,3.8,"3 qm, Rigole mit Stammgitter "
+293,Laubbaum,,,,,,
+294,Laubbaum,,,,,,
+295,Nadelbaum,,,,,,
+296,Laubbaum,,,,,,
+297,Laubbaum,,,,,,
+298,Laubbaum,,,,,,"Nicht vorhanden, stattdessen steht dort eine Perus salicifonie"
+299,Laubbaum,Rheinischer Bohnapfel,Malus domestica,0.05,1.7,4,
+300,Laubbaum,,,,,,
+301,Laubbaum,,,,,,
+302,Laubbaum,Spitzahorn,Acer platanoides,0.28,7.5,8,
+303,Laubbaum,Birke,Betula spec.,0.25,6,10.2,Hängebirke?
+304,Laubbaum,Birke,Betula spec.,0.27,6,9.7,Hängebirke?
+305,Laubbaum,Hängebirke,Betula pendula,0.23,4,11,Starker Bewuchs mit Efeu
+306,Laubbaum,Hartriegel,Cornus spec.,0.08,6,6.2,"4 Stämme a ca.  0.08, Hartriegel spec. "
+307,Laubbaum,Hartriegel,Cornus spec.,0.08,6.3,5.6,"7 Hauptstämme a ca. 0.08, Hartriegel spec."
+308,Laubbaum,Spitzahorn,Acer platanoides,0.3,9,13.4,BHD geschätzt 
+309,Laubbaum,Nadelgehölz,Coniferales,0.4,8.5,17,BHD geschätzt 
+310,Laubbaum,,,,,,Gefällt? Nicht vorhanden 
+311,Laubbaum,,,,,,Gefällt? Nicht vorhanden 
+312,Laubbaum,Abendländischer Lebensbaum,Thuja occidentalis,0.17,3,7.1,
+313,Laubbaum,Spitzahorn,Acer platanoides,0.16,5,8.8,"BHD, Krone und Höhe geschätzt"
+314,Laubbaum,Echte Zypresse,Cupressus sempervirens,,3,10,BHD n.a.
+315,Laubbaum,,,,,,nicht zugänglich
+316,Nadelbaum,,,,,,nicht zugänglich
+317,Nadelbaum,Hängebirke,Betula pendula,0.31,8,12.3,Innenhof
+318,Nadelbaum,Bergahorn,Acer pseudoplatanus,0.39,9.5,11.5,Innenhof
+319,Nadelbaum,Robinie,Robinia pseudoacacia,,12,11.7,"BHD nicht messbar, Krone geschätzt "
+320,Laubbaum,Traubenkirsche,Prunus spec.,,7,8.1,"BHD nicht messbar, starker Efeubewuchs"
+321,Laubbaum,Hängebirke,Betula pendula,0.3,5,15.9,BHD geschätzt
+322,Laubbaum,Eibe,Taxus spec.,,6,8.6,"BHD nicht messbar, vielleicht Eibe?"
+323,Laubbaum,Lawson-Scheinzypresse,Chamaecyparis lawsoniana,0.25,3.9,11.4,BHD geschätzt 
+324,Laubbaum,Bergahorn,Acer pseudoplatanus,0.14,5,10.4,Krone geschätzt
+325,Laubbaum,Hängebirke,Betula pendula,0.35,6,10,BHD und Krone geschätzt 
+326,Laubbaum,,,,,,stehendes Totholz mit Efeu
+327,Laubbaum,Hainbuche,Carpinus betulus,0.11,3.8,7,"4 qm, Rindenmulch "
+328,Laubbaum,Hainbuche,Carpinus betulus,0.11,3.2,6.2,"4 qm, Bank über Baumscheibe "
+329,Laubbaum,Abendländischer Lebensbaum,Thuja occidentalis,0.11,2,7.1,"0.5 qm,  Kies"
+330,Laubbaum,Abendländischer Lebensbaum,Thuja occidentalis,0.1,1.8,5.3,"0.5 qm, Kies"
+331,Laubbaum,Echte Zypresse,Cupressus sempervirens,0.14,1.8,8.3,In Beet 
+332,Laubbaum,Echte Zypresse,Cupressus sempervirens,0.14,1.8,6.9,Im Beet
+333,Laubbaum,Echte Zypresse,Cupressus sempervirens,0.13,1.5,6,In Beet
+334,Laubbaum,Europäische Eibe,Taxus baccata,0.14,3.8,6.2,2 Stämme a ca. 0.14
+335,Laubbaum,Felsenbirne,Amelanchier spec.,0.07,3,6.9,"5 Stämme a ca. 0.07 m, Kupfer-Felsenbirne? Canadische Felsenbirne?"
+336,Laubbaum,Felsenbirne,Amelanchier spec.,0.08,4,7.3,"6 Stämme a ca. 0,08 m"
+337,Laubbaum,Amerikanischer Amberbaum,Liquidamber styraciflua,0.08,1,5.6,
+338,Laubbaum,Amerikanischer Amberbaum,Liquidamber styraciflua,0.06,1,4.1,
+339,Laubbaum,Felsenbirne,Amelanchier spec.,0.09,4.9,5.7,"5 Stämme a ca.  0.09 m,  Kanadische Felsenbirne "
+340,Laubbaum,Drüsiger Götterbaum,Ailanthus altissima,0.18,6.5,7.8,"Keine Baumscheibe, wächst Richtung Garten "
+341,Laubbaum,Stieleiche,Quercus robur,0.2,8,7.2,
+342,Laubbaum,Gewöhnlicher Flieder,Syringa vulgaris,0.06,3,4,3 Stämme a ca. 0.06 m 
+343,Laubbaum,Hängebirke,Betula pendula,0.28,7,11.8,"BHD geschätzt, Stark bewachsen mit Efeu"
+344,Laubbaum,Hängebirke,Betula pendula,0.28,5,14,"BHD gemessen, starker Bewuchs mit Efeu"
+345,Laubbaum,Hängebirke,Betula pendula,0.4,5,13.8,"BHD geschätzt, starker Bewuchs mit Efeu"
+346,Laubbaum,Hängebirke,Betula pendula,0.23,4,11,Starker Bewuchs mit Efeu
+347,Laubbaum,Hängebirke,Betula pendula,0.31,7,14,Starker Bewuchs mit Efeu
+348,Laubbaum,Eibe,Taxus spec.,0.23,4,5.3,Welche Eibe? BHD geschätzt
+349,Laubbaum,Spitzahorn,Acer platanoides,0.38,12,13.2,BHD geschätzt 
+350,Laubbaum,Kirschlorbeer,Prunus laurocerasus,0.08,2.5,2.6,3 Hauptstämme a 0.08 m
+351,Laubbaum,Süßkirsche,Prunus avium,0.2,7.5,9.3,BHD geschätzt 
+352,Laubbaum,Süßkirsche,Prunus avium,0.18,6.8,10.3,BHD geschätzt 
+353,Laubbaum,,,,,,BHD < 0.05 m
+354,Laubbaum,Eibe,Taxus spec.,0.3,4,6.4,Fortunes Kopfeibe?
+355,Laubbaum,Portugiesische Kirschlorbeer,Prunus lusitanica,0.08,3,4.2,
+356,Laubbaum,Bergahorn,Acer pseudoplatanus,0.09,6.5,7,"2 Stämme a ca. 0.09 m,  Krone geschätzt"
+357,Laubbaum,Pflaume,Prunus domestica,0.09,4.2,3.7,Pflaume
+358,Laubbaum,Pflaume,Prunus domestica,0.06,2,3.5,
+359,Laubbaum,Holzapfel,Malus sylvestris,0.1,3.7,4.9,"2 Stämme a ca. 0.1 m, Apfel"
+360,Laubbaum,Aprikose,Prunus armeniaca,0.07,3.5,4.3,2 Stämme a ca. 0.07 m
+361,Laubbaum,Echte Feige,Ficus carica,0.15,8,4.5,BHD geschätzt
+362,Laubbaum,Bergahorn,Acer pseudoplatanus,0.19,5,10.9,Krone geschätzt
+363,Laubbaum,Bergahorn,Acer pseudoplatanus,0.16,5,12,Krone geschätzt
+364,Nadelbaum,Bergahorn,Acer pseudoplatanus,0.08,4,7,Krone geschätzt
+365,Laubbaum,Gemeine Hasel,Corylus avellana,0.06,6,3.4,5 Stämme mit ca. 0.06 m 
+366,Laubbaum,Japanische Blütenkirsche,Prunus serrulata,0.07,1.5,4.4,
+367,Nadelbaum,Steinweichsel,Prunus mahaleb,0.13,8.3,6,2 Stämme a 0.13 m
+368,Laubbaum,Echte Feige,Ficus carica,0.1,4.5,4.1,8 Stämme a 0.1m
+369,Laubbaum,Quitte,Cydonia oblonga,0.06,3,3.9,2 Hauptstämme a 0.06 m 
+370,Laubbaum,Kornelkirsche,Cornus mas,0.09,3.8,4.5,Hartriegel? Apfel?
+371,Laubbaum,Gemeine Hasel,Corylus avellana,0.07,3.7,6,"3 Hauptstämme a ca. 0.07 cm, BHD geschätzt"
+372,Nadelbaum,Eibe,Taxus spec.,0.2,3.5,4.6,"BHD, Krone und Höhe geschätzt"
+373,,,,,,,nicht zugänglich
+374,,,,,,,nicht zugänglich
+375,Laubbaum,Hängebirke,Betula pendula,0.3,5.5,7.5,BHD und Krone geschätzt 
+376,Laubbaum,n.a.,Prunus spec.,0.25,6.5,7.8,"Art nicht genau bestimmbar, BHD und Krone geschätzt "
+377,Nadelbaum,Schwarzkiefer,Pinus nigra ssp. Nigra,0.12,4,4.4,"Kiefer,  pinus spec?"
+378,Nadelbaum,Schwarzkiefer,Pinus nigra ssp. Nigra,0.1,2.6,3.7,"Kiefer, Pinus spec.?"
+379,Nadelbaum,Schwarzkiefer,Pinus nigra ssp. Nigra,0.06,2.5,4.2,"2 Stämme a 0.06 m,  Kiefer, Pinus spec."
+380,Nadelbaum,Schwarzkiefer,Pinus nigra ssp. Nigra,0.06,2.7,3.8,"2 Stämme a 0.06 m, Kiefer, Pinus spec"
+381,Laubbaum,Kornelkirsche,Cornus mas,0.09,5,4.9,3 Stämme a 0.09 m
+382,Laubbaum,Felsenbirne,Amelanchier spec.,0.07,1.9,2.8,
+383,Laubbaum,Kornelkirsche,Cornus mas,0.07,6.5,5.1,4 Stämme a 0.07
+384,Laubbaum,Kornelkirsche,Cornus mas,0.13,5,4.5,2 Stämme a 0.13
+385,Laubbaum,Felsenbirne,Amelanchier spec.,0.07,2.9,3.1,2 Stämme a 0.07 m
+386,Laubbaum,Weidenblättrige Birne,Perus salicifonia,0.22,5.5,5.5,
+387,Laubbaum,Hartriegel,Cornus spec.,0.07,6,3.5,4 Stämme a 0.07 m
+388,Laubbaum,Dreispitzahorn,Acer buergerianum,0.18,7.5,7.8,2 Stämme a ca. 0.18 m
+389,Laubbaum,Dreispitzahorn,Acer buergerianum,0.13,4.5,6,
+390,Laubbaum,Dreispitzahorn,Acer buergerianum,0.12,5.8,7,2 Stämme a ca. 0.12
+391,Laubbaum,Felsenbirne,Amelanchier spec.,0.06,5,4.2,5 Hauptstämme a ca. 0.06
+392,Laubbaum,Hartriegel,Cornus spec.,0.06,4.2,2.8,"1 Haptstamm, Hartriegel spec."
+393,Laubbaum,Hartriegel,Cornus spec.,0.08,4,3.2,"1 Hauptstamm, Hartriegel spec. "
+394,Laubbaum,Hartriegel,Cornus spec.,0.09,4,6.1,"3 Stämme a 0.09 m, Hartriegel spec."
+395,Laubbaum,Hartriegel,Cornus spec.,0.08,3.4,5.6,"3 Stämme a ca. 0.08, Hartriegel spec."
+396,Laubbaum,Hartriegel,Cornus spec.,0.08,5.8,5.3,"3 Stämme a ca. 0.08 m, Hartriegel spec. "
+397,Laubbaum,Hartriegel,Cornus spec.,0.07,5.8,6.1,"3 Stämme a ca. 0.07, Hartriegel spec."
+398,Laubbaum,Hartriegel,Cornus spec.,0.08,5,5.8,"2 Hauptstämme a ca. 0.08, Hartriegel spec. "
+399,Laubbaum,Hartriegel,Cornus spec.,0.11,4.5,6.4,"2 Stämme a ca. 0.11, Hartriegel spec. "
+400,Laubbaum,Hartriegel,Cornus spec.,0.08,5.8,4.3,"4 Stämme a ca. 0.08, Hartriegel spec. "
+401,Laubbaum,Hartriegel,Cornus spec.,0.08,4.3,6,"3 Stämme a ca.  0.08, Hartriegel spec. "
+402,Laubbaum,Hartriegel,Cornus spec.,0.05,4.2,6,"10 Stämme a ca. 0.05, Hartriegel spec."
+403,Laubbaum,Hartriegel,Cornus spec.,0.09,6.1,5.1,"2 Stämme a ca. 0.09, Hartriegel spec. "
+404,Laubbaum,Hartriegel,Cornus spec.,0.07,4,4.7,"2 Stämme a ca. 0.07, Hartriegel spec. "
+405,Laubbaum,Hartriegel,Cornus spec.,0.07,6.6,4.2,"BHD geschätzt, 4 Stämme a ca. 0.07, Hartriegel spec., "
+406,Laubbaum,Hartriegel,Cornus spec.,0.07,6.2,4.4,"5 Stämme a ca. 0.07, Hartriegel spec."
+407,Laubbaum,Hartriegel,Cornus spec.,0.07,5.2,6.1,"8 Stämme a ca. 0.07,  Hartriegel spec. "
+408,Laubbaum,Hartriegel,Cornus spec.,0.11,4,6,"2 Stämme a ca. 0.11, Hartriegel spec."
+409,Laubbaum,Hartriegel,Cornus spec.,0.05,5,3.8,"4 Stämme a ca. 0.05, Hartriegel spec."
+410,Laubbaum,Hartriegel,Cornus spec.,0.06,4,4.3,2 Stämme a ca. 0.06
+411,Laubbaum,Gewöhnlicher Liguster,Ligustrum vulgare,0.06,3.5,4.3,2 Stämme a ca. 0.06
+412,Laubbaum,Baumliguster,Ligustrum lucidly,0.06,3.3,4.1,6 Stämme a ca. 0.06
+413,Laubbaum,Kornelkirsche,Cornus mas,0.06,5.9,4.1,4 Stämme a ca. 0.06
+414,Laubbaum,Baumliguster,Ligustrum lucidly,0.08,4,4.8,1 Hauptstamm
+415,Laubbaum,Rote Heckenkirsche,Lonicera xylosteum,0.07,6.5,4,"7 Stämma a ca. 0.07, Krone geschätzt"
+416,Laubbaum,Baumliguster,Ligustrum lucidly,0.09,6.2,5.2,"6 Stämme a ca. 0.09, BHD geschätzt "
+417,Laubbaum,Baumliguster,Ligustrum lucidly,0.11,7.1,7.6,"7 Stämma a ca. 0.11, BHD geschätzt "
+418,Laubbaum,Kirschpflaume,Prunus cerasifera,0.06,4.5,4.4,4 Hauptstämme a ca. 0.06
+419,Nadelbaum,Eibe,Taxus spec.,0.07,2.8,4.5,
+420,Laubbaum,Kleinfruchtiger Zierapfel,Malus toringo,0.07,4,3,"Auf Gründach: 2 Stämme a ca. 0.07,"
+421,Laubbaum,Felsenbirne,Amelanchier spec.,0.06,3.5,3.3,Auf Gründach: 2 Stämme a ca. 0.06
+422,Laubbaum,Süßkirsche,Prunus avium,0.13,5.5,4.1,Auf Gründach: 3 Stämme a ca. 0.13
+423,Laubbaum,Felsenbirne,Amelanchier spec.,0.05,3.5,2.5,Auf Gründach: 3 Stämme a 0.05 
+424,Laubbaum,Süßkirsche,Prunus avium,0.09,4.5,5.2,"1 qm, offene Erde, 2 Stämme a ca 0.09, Vermutung Süßkirsche"
+425,Nadelbaum,Echte Zypresse,Cupressus sempervirens,0.12,1.5,6.9,
+426,Laubbaum,Süßkirsche,Prunus avium,0.18,4.9,3.5,BHD geschätzt 
+427,Laubbaum,Bergahorn,Acer pseudoplatanus,0.18,5.8,5.4,BHD geschätzt
+428,Nadelbaum,Abendländischer Lebensbaum,Thuja occidentalis,0.14,2.5,7.7,2 Stämme a ca.  0.14
+429,Laubbaum,Echte Feige,Ficus carica,0.08,2,2.7,
+430,Laubbaum,Echte Feige,Ficus carica,0.07,1,2.4,2 Stämme a ca. 0.07
+431,Laubbaum,Echte Feige,Ficus carica,0.06,1.4,2.7,
+432,Laubbaum,Echte Feige,Ficus carica,0.06,1,2.6,

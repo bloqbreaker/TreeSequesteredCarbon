@@ -1,0 +1,324 @@
+"fid","ART","NAME_DT","BHD","HOEHE","class","n_staemme","gwGruppe"
+1,"Laubbaum","Winterlinde",38,12.4,"Buche",1,8
+2,"Laubbaum","Winterlinde",36,12,"Buche",1,8
+3,"Laubbaum","Winterlinde",57,16.2,"Buche",1,10
+4,"Laubbaum","Amerikanische Gleditschie",40,11.5,"Eiche",1,8
+5,"Laubbaum","Amerikanische Gleditschie",35,11.5,"Eiche",1,7
+6,"Laubbaum","Winterlinde",20,8.3,"Buche",1,6
+7,"Laubbaum","Winterlinde",20,8.4,"Buche",1,6
+8,"Laubbaum","Winterlinde",20,8.7,"Buche",1,5
+9,"Laubbaum","Winterlinde",28,12.8,"Buche",1,6
+10,"Laubbaum","Winterlinde",20,8.4,"Buche",1,6
+11,"Laubbaum","Winterlinde",21,10,"Buche",1,5
+12,"Laubbaum","Winterlinde",23,9.9,"Buche",1,5
+13,"Laubbaum","Gewöhnliche Rosskastanie",33,9.3,"Buche",1,8
+14,"Laubbaum","Spitzahorn",23,10.1,"Eiche",1,5
+15,"Laubbaum","Bergahorn",19,8.5,"Eiche",1,5
+16,"Laubbaum","Bergahorn",24,12.2,"Eiche",1,6
+17,"Laubbaum","Bergahorn",17,8,"Eiche",1,4
+18,"Laubbaum","Bergahorn",24,11.2,"Eiche",1,6
+19,"Laubbaum","Winterlinde",36,16.1,"Buche",1,7
+20,"Laubbaum","Papierbirke",20,8.7,"Eiche",1,5
+21,"Laubbaum","Grau-Erle",34,7.9,"Eiche",1,8
+22,"Laubbaum","Winterlinde",23,9.5,"Buche",1,5
+23,"Nadelbaum","Schwarzkiefer",28,11.8,"Kiefer",1,6
+24,"Nadelbaum","Schwarzkiefer",30,9.2,"Kiefer",1,7
+25,"Nadelbaum","Schwarzkiefer",36,10.2,"Kiefer",1,8
+26,"Laubbaum","Hainbuche",33,11.6,"Buche",1,7
+27,"Laubbaum","Winterlinde",57,12.1,"Buche",1,10
+38,"Laubbaum","Winterlinde",36,14.5,"Buche",1,7
+39,"Laubbaum","Winterlinde",29,9,"Buche",1,7
+40,"Laubbaum","Winterlinde",28,12.7,"Buche",1,6
+41,"Laubbaum","Winterlinde",26,12,"Buche",1,6
+42,"Laubbaum","Winterlinde",23,10.7,"Buche",1,5
+43,"Laubbaum","Winterlinde",30,13,"Buche",1,6
+44,"Laubbaum","Winterlinde",25,12.2,"Buche",1,6
+45,"Laubbaum","Winterlinde",24,13,"Buche",1,6
+46,"Laubbaum","Amerikanischer Amberbaum",7,5.8,"Eiche",1,1
+47,"Laubbaum","Winterlinde",20,10.9,"Buche",1,5
+48,"Laubbaum","Winterlinde",22,9.9,"Buche",1,5
+49,"Laubbaum","Spitzahorn",20,13.2,"Eiche",1,5
+50,"Laubbaum","Spitzahorn",32,12.7,"Eiche",1,7
+51,"Laubbaum","Winterlinde",55,14,"Buche",1,10
+52,"Laubbaum","Winterlinde",25,12.1,"Buche",1,6
+53,"Laubbaum","Winterlinde",22,11.7,"Buche",1,5
+54,"Laubbaum","Winterlinde",35,13,"Buche",1,7
+55,"Laubbaum","Winterlinde",33,9.1,"Buche",1,8
+56,"Laubbaum","Winterlinde",27,11.8,"Buche",1,6
+57,"Laubbaum","Winterlinde",29,12.3,"Buche",1,6
+58,"Laubbaum","Winterlinde",26,10.8,"Buche",1,6
+59,"Laubbaum","Götterbaum",42,11.3,"Eiche",1,9
+60,"Laubbaum","Götterbaum",34,14.2,"Eiche",1,7
+72,"Laubbaum","Götterbaum",37,11,"Eiche",1,8
+77,"Nadelbaum","Winterlinde",33,13.8,"Buche",1,7
+78,"Laubbaum","Winterlinde",33,15,"Buche",1,7
+79,"Laubbaum","Winterlinde",31,15.5,"Buche",1,7
+80,"Laubbaum","Winterlinde",23,11.6,"Buche",1,5
+81,"Laubbaum","Winterlinde",35,12,"Buche",1,8
+82,"Laubbaum","Winterlinde",26,12.5,"Buche",1,6
+83,"Laubbaum","Winterlinde",24,12.3,"Buche",1,6
+84,"Laubbaum","Winterlinde",30,14.6,"Buche",1,7
+85,"Laubbaum","Winterlinde",30,13.6,"Buche",1,6
+86,"Laubbaum","Winterlinde",28,10.3,"Buche",1,7
+87,"Laubbaum","Winterlinde",25,9.5,"Buche",1,6
+91,"Laubbaum","Hainbuche",23,10.5,"Buche",1,5
+92,"Laubbaum","Hainbuche",24.0416305603426,11.7,"Buche",2,6
+93,"Laubbaum","Schwarzkiefer",37,14.8,"Kiefer",1,7
+94,"Laubbaum","Amerikanische Gleditschie",51,16.8,"Eiche",1,9
+95,"Laubbaum","Schwarzkiefer",38,12.3,"Kiefer",1,7
+97,"Laubbaum","Hainbuche",36,9.9,"Buche",1,8
+98,"Laubbaum","Winterlinde",35,14.5,"Buche",1,7
+99,"Laubbaum","Spitzahorn",30,11.9,"Eiche",1,6
+100,"Laubbaum","Spitzahorn",29,12.5,"Eiche",1,6
+101,"Laubbaum","Spitzahorn",30,9.8,"Eiche",1,7
+102,"Laubbaum","Spitzahorn",35,13.1,"Eiche",1,7
+103,"Laubbaum","Spitzahorn",32,8.8,"Eiche",1,8
+104,"Laubbaum","Winterlinde",24,10.3,"Buche",1,5
+105,"Laubbaum","Winterlinde",23,10.4,"Buche",1,5
+106,"Laubbaum","Winterlinde",29,10,"Buche",1,7
+107,"Laubbaum","Winterlinde",7,5.4,"Buche",1,1
+108,"Laubbaum","Winterlinde",18,8,"Buche",1,5
+109,"Laubbaum","Winterlinde",25,9.9,"Buche",1,6
+110,"Laubbaum","Winterlinde",40,16,"Buche",1,8
+111,"Laubbaum","Winterlinde",36,15.2,"Buche",1,7
+112,"Laubbaum","Winterlinde",18,10.2,"Buche",1,5
+113,"Laubbaum","Südlicher Zürgelbaum",21,7.2,"Eiche",1,6
+114,"Laubbaum","Südlicher Zürgelbaum",25,7.4,"Eiche",1,7
+115,"Laubbaum","Bergahorn",27,9.7,"Eiche",1,7
+116,"Laubbaum","Japanische Blütenkirsche",8,4.3,"Buche",1,1
+117,"Laubbaum","Japanische Blütenkirsche",9,4.9,"Buche",1,1
+118,"Laubbaum","Japanische Blütenkirsche",10,5,"Buche",1,2
+119,"Laubbaum","Japanische Blütenkirsche",7,4.7,"Buche",1,1
+130,"Laubbaum","Feldahorn",26,8.8,"Eiche",1,7
+131,"Laubbaum","Feldahorn",24,7.3,"Eiche",1,6
+132,"Laubbaum","Feldahorn",22,7.2,"Eiche",1,6
+133,"Laubbaum","Feldahorn",34,10.4,"Eiche",1,8
+134,"Laubbaum","Feldahorn",30,8.5,"Eiche",1,7
+135,"Laubbaum","Hainbuche",14,6.7,"Buche",1,3
+136,"Laubbaum","Hainbuche",11,6.9,"Buche",1,2
+137,"Laubbaum","Hainbuche",13,8.2,"Buche",1,3
+138,"Laubbaum","Platane",26,4.2,"Eiche",1,7
+139,"Laubbaum","Platane",28,4.5,"Eiche",1,7
+140,"Laubbaum","Platane",28,4.3,"Eiche",1,7
+141,"Laubbaum","Platane",28,4.4,"Eiche",1,7
+142,"Laubbaum","Platane",20,4.6,"Eiche",1,6
+143,"Laubbaum","Platane",23,4.8,"Eiche",1,6
+144,"Laubbaum","Platane",18,4.1,"Eiche",1,6
+145,"Laubbaum","Platane",19,4,"Eiche",1,6
+146,"Laubbaum","Platane",20,4.2,"Eiche",1,6
+147,"Laubbaum","Platane",18,4.2,"Eiche",1,6
+154,"Laubbaum","Tulpenbaum",6,5.1,"Eiche",1,1
+155,"Laubbaum","Winterlinde",18,8.6,"Buche",1,4
+156,"Laubbaum","Winterlinde",15,7.6,"Buche",1,3
+157,"Laubbaum","Hainbuche",19.0525588832576,8,"Buche",3,6
+158,"Laubbaum","Winterlinde",29,14.6,"Buche",1,6
+159,"Laubbaum","Winterlinde",19,9.7,"Buche",1,5
+160,"Laubbaum","Winterlinde",20,9.4,"Buche",1,5
+161,"Laubbaum","Platane",20,4.2,"Eiche",1,6
+162,"Laubbaum","Platane",16,4.1,"Eiche",1,5
+163,"Laubbaum","Platane",16,4.2,"Eiche",1,5
+164,"Laubbaum","Platane",16,4.5,"Eiche",1,5
+165,"Laubbaum","Platane",16,4.3,"Eiche",1,5
+166,"Laubbaum","Platane",16,4,"Eiche",1,5
+167,"Laubbaum","Winterlinde",25,13.9,"Buche",1,6
+168,"Laubbaum","Hainbuche",8.48528137423857,2.1,"Buche",2,1
+169,"","Hainbuche",18,6.3,"Buche",4,5
+170,"Laubbaum","Japanische Blütenkirsche",20,5,"Buche",1,6
+171,"Laubbaum","Japanische Blütenkirsche",18,5.6,"Buche",1,5
+172,"Laubbaum","Japanische Blütenkirsche",20,5.3,"Buche",1,6
+173,"Laubbaum","Japanische Blütenkirsche",8,4.6,"Buche",1,1
+174,"Laubbaum","Winterlinde",48,13.2,"Buche",1,10
+175,"Laubbaum","Amerikanischer Amberbaum",20,10.5,"Eiche",1,5
+176,"Laubbaum","Amerikanischer Amberbaum",17,8.5,"Eiche",1,4
+192,"Laubbaum","Winterlinde",19,8.2,"Buche",1,6
+193,"Laubbaum","Hainbuche",27,10.7,"Buche",1,6
+194,"Laubbaum","Hainbuche",31,11.8,"Buche",1,6
+195,"Laubbaum","Hainbuche",25,11.7,"Buche",1,6
+196,"Laubbaum","Hainbuche",30,12.9,"Buche",1,6
+197,"Laubbaum","Winterlinde",17,8.5,"Buche",1,4
+198,"Laubbaum","Winterlinde",16,8.6,"Buche",1,4
+199,"Laubbaum","Winterlinde",16,7.7,"Buche",1,4
+200,"Laubbaum","Feldahorn",14,6.5,"Eiche",1,4
+201,"Laubbaum","Feldahorn",12,7,"Eiche",1,2
+202,"Laubbaum","Hainbuche",14,10.1,"Buche",1,4
+203,"Laubbaum","Hainbuche",7,5.8,"Buche",1,1
+204,"Laubbaum","Hainbuche",6,5.6,"Buche",1,1
+205,"Laubbaum","Hainbuche",10,8,"Buche",1,2
+206,"Laubbaum","Hainbuche",11,8,"Buche",1,2
+207,"Laubbaum","Hainbuche",13,10.2,"Buche",1,3
+208,"Laubbaum","Hainbuche",13,9.3,"Buche",1,3
+209,"Laubbaum","Hainbuche",11,8.6,"Buche",1,2
+210,"Laubbaum","Hainbuche",13,9.5,"Buche",1,3
+211,"Laubbaum","Hainbuche",13,9.9,"Buche",1,3
+212,"Laubbaum","Hainbuche",12,9.6,"Buche",1,3
+213,"Laubbaum","Hainbuche",12,9.9,"Buche",1,3
+214,"Laubbaum","Südlicher Zürgelbaum",17,6.4,"Eiche",1,5
+215,"Laubbaum","Spitzahorn",21,9.4,"Eiche",1,5
+216,"Laubbaum","Spitzahorn",21,9.3,"Eiche",1,5
+217,"Laubbaum","Spitzahorn",18,7.5,"Eiche",1,5
+218,"Laubbaum","Spitzahorn",21,11.9,"Eiche",1,5
+219,"Laubbaum","Spitzahorn",20,10.7,"Eiche",1,5
+220,"Laubbaum","Hainbuche",20,8,"Buche",1,6
+221,"Laubbaum","Hainbuche",12,7.4,"Buche",1,2
+222,"Laubbaum","Hainbuche",60,5.4,"Buche",1,11
+223,"Laubbaum","Blumen-Esche",17,5.4,"Eiche",1,5
+224,"Laubbaum","Blumen-Esche",17,5,"Eiche",1,5
+225,"Laubbaum","Blumen-Esche",19,5.3,"Eiche",1,6
+226,"Laubbaum","Blumen-Esche",18,5.4,"Eiche",1,6
+227,"Laubbaum","Blumen-Esche",18,5.4,"Eiche",1,6
+228,"Laubbaum","Blumen-Esche",19,5.6,"Eiche",1,6
+229,"Laubbaum","Platane",65,18.2,"Eiche",1,11
+230,"Nadelbaum","Platane",80,19.7,"Kiefer",1,11
+231,"Laubbaum","Platane",84,18.3,"Eiche",1,11
+232,"Laubbaum","Südlicher Zürgelbaum",23,8.4,"Eiche",1,5
+233,"Laubbaum","Platane",94,18.2,"Eiche",1,11
+234,"Laubbaum","Platane",38,17.5,"Eiche",1,8
+235,"Laubbaum","Amerikanische Gleditschie",27,10,"Eiche",1,7
+237,"Laubbaum","Amerikanische Gleditschie",30,13.5,"Eiche",1,7
+238,"Nadelbaum","Feldahorn",25,11.5,"Eiche",1,6
+239,"Laubbaum","Spitzahorn",31,12.2,"Eiche",1,7
+245,"Laubbaum","Japanischer Schnurbaum",39,14.3,"Eiche",1,8
+246,"Laubbaum","Japanischer Schnurbaum",63,14,"Eiche",1,11
+247,"Laubbaum","Japanischer Schnurbaum",40,11.4,"Eiche",1,9
+248,"Laubbaum","Winterlinde",30,16.1,"Buche",1,7
+249,"Laubbaum","Winterlinde",31,15.6,"Buche",1,7
+250,"Laubbaum","Winterlinde",36,17.5,"Buche",1,7
+251,"Laubbaum","Winterlinde",37,16.9,"Buche",1,7
+252,"Nadelbaum","Japanischer Schnurbaum",26,7.9,"Kiefer",1,7
+253,"Nadelbaum","Bergahorn",46.6690475583121,10.1,"Eiche",2,10
+258,"Laubbaum","Gewöhnliche Rosskastanie",70,11.7,"Buche",1,11
+259,"Nadelbaum","Spitzahorn",16,3.5,"Eiche",1,5
+260,"Laubbaum","Ginkgo",9,3.7,"Eiche",1,1
+266,"Nadelbaum","Hainbuche",18,10.8,"Buche",1,5
+267,"Laubbaum","Japanischer Wildapfel",58.0947501931113,4.4,"Eiche",15,11
+268,"Laubbaum","Hainbuche",11.3137084989848,5.5,"Buche",2,2
+269,"Laubbaum","Kleinfruchtiger Zierapfel",6,3,"Eiche",1,1
+271,"Nadelbaum","Pagoden-Hartriegel",15.6524758424985,4.6,"Kiefer",5,3
+275,"Nadelbaum","Hainbuche",30,7.4,"Buche",1,7
+278,"Laubbaum","Hainbuche",24,9.5,"Buche",1,5
+279,"Laubbaum","Europäische Eibe",26,6.9,"Eiche",4,7
+280,"Laubbaum","Hainbuche",35,8.2,"Buche",1,8
+281,"Laubbaum","Hainbuche",30,12.3,"Buche",1,6
+290,"Nadelbaum","Blumen-Esche",7,4,"Kiefer",1,1
+291,"Laubbaum","Blumen-Esche",7,3.7,"Eiche",1,1
+292,"Laubbaum","Blumen-Esche",8,3.8,"Eiche",1,1
+299,"Laubbaum","Rheinischer Bohnapfel",5,4,"Eiche",1,1
+302,"Laubbaum","Spitzahorn",28,8,"Eiche",1,7
+303,"Laubbaum","Birke",25,10.2,"Eiche",1,6
+304,"Laubbaum","Birke",27,9.7,"Eiche",1,7
+305,"Laubbaum","Hängebirke",23,11,"Eiche",1,6
+306,"Laubbaum","Hartriegel",16,6.2,"Eiche",4,5
+307,"Laubbaum","Hartriegel",21.1660104885167,5.6,"Eiche",7,6
+308,"Laubbaum","Spitzahorn",30,13.4,"Eiche",1,7
+309,"Laubbaum","Nadelgehölz",40,17,"Eiche",1,8
+312,"Laubbaum","Abendländischer Lebensbaum",17,7.1,"Eiche",1,4
+313,"Laubbaum","Spitzahorn",16,8.8,"Eiche",1,4
+317,"Nadelbaum","Hängebirke",31,12.3,"Kiefer",1,6
+318,"Nadelbaum","Bergahorn",39,11.5,"Eiche",1,8
+321,"Laubbaum","Hängebirke",30,15.9,"Eiche",1,7
+323,"Laubbaum","Lawson-Scheinzypresse",25,11.4,"Eiche",1,6
+324,"Laubbaum","Bergahorn",14,10.4,"Eiche",1,4
+325,"Laubbaum","Hängebirke",35,10,"Eiche",1,8
+327,"Laubbaum","Hainbuche",11,7,"Buche",1,2
+328,"Laubbaum","Hainbuche",11,6.2,"Buche",1,2
+329,"Laubbaum","Abendländischer Lebensbaum",11,7.1,"Eiche",1,2
+330,"Laubbaum","Abendländischer Lebensbaum",10,5.3,"Eiche",1,2
+331,"Laubbaum","Echte Zypresse",14,8.3,"Eiche",1,3
+332,"Laubbaum","Echte Zypresse",14,6.9,"Eiche",1,3
+333,"Laubbaum","Echte Zypresse",13,6,"Eiche",1,4
+334,"Laubbaum","Europäische Eibe",19.7989898732233,6.2,"Eiche",2,6
+335,"Laubbaum","Felsenbirne",15.6524758424985,6.9,"Eiche",5,4
+336,"Laubbaum","Felsenbirne",19.5959179422654,7.3,"Eiche",6,6
+337,"Laubbaum","Amerikanischer Amberbaum",8,5.6,"Eiche",1,1
+338,"Laubbaum","Amerikanischer Amberbaum",6,4.1,"Eiche",1,1
+339,"Laubbaum","Felsenbirne",20.1246117974981,5.7,"Eiche",5,6
+340,"Laubbaum","Drüsiger Götterbaum",18,7.8,"Eiche",1,5
+341,"Laubbaum","Stieleiche",20,7.2,"Eiche",1,6
+342,"Laubbaum","Gewöhnlicher Flieder",10.3923048454133,4,"Eiche",3,2
+343,"Laubbaum","Hängebirke",28,11.8,"Eiche",1,6
+344,"Laubbaum","Hängebirke",28,14,"Eiche",1,6
+345,"Laubbaum","Hängebirke",40,13.8,"Eiche",1,8
+346,"Laubbaum","Hängebirke",23,11,"Eiche",1,6
+347,"Laubbaum","Hängebirke",31,14,"Eiche",1,7
+348,"Laubbaum","Eibe",23,5.3,"Eiche",1,6
+349,"Laubbaum","Spitzahorn",38,13.2,"Eiche",1,8
+350,"Laubbaum","Kirschlorbeer",13.856406460551,2.6,"Eiche",3,4
+351,"Laubbaum","Süßkirsche",20,9.3,"Buche",1,5
+352,"Laubbaum","Süßkirsche",18,10.3,"Buche",1,5
+354,"Laubbaum","Eibe",30,6.4,"Eiche",1,7
+355,"Laubbaum","Portugiesische Kirschlorbeer",8,4.2,"Eiche",1,1
+356,"Laubbaum","Bergahorn",12.7279220613579,7,"Eiche",2,3
+357,"Laubbaum","Pflaume",9,3.7,"Eiche",1,1
+358,"Laubbaum","Pflaume",6,3.5,"Eiche",1,1
+359,"Laubbaum","Holzapfel",14.142135623731,4.9,"Eiche",2,4
+360,"Laubbaum","Aprikose",9.89949493661167,4.3,"Eiche",2,2
+361,"Laubbaum","Echte Feige",15,4.5,"Eiche",1,5
+362,"Laubbaum","Bergahorn",19,10.9,"Eiche",1,5
+363,"Laubbaum","Bergahorn",16,12,"Eiche",1,4
+364,"Nadelbaum","Bergahorn",8,7,"Eiche",1,1
+365,"Laubbaum","Gemeine Hasel",13.4164078649987,3.4,"Eiche",5,4
+366,"Laubbaum","Japanische Blütenkirsche",7,4.4,"Buche",1,1
+367,"Nadelbaum","Steinweichsel",18.3847763108502,6,"Kiefer",2,5
+368,"Laubbaum","Echte Feige",28.2842712474619,4.1,"Eiche",8,7
+369,"Laubbaum","Quitte",8.48528137423857,3.9,"Eiche",2,1
+370,"Laubbaum","Kornelkirsche",9,4.5,"Buche",1,1
+371,"Laubbaum","Gemeine Hasel",12.1243556529821,6,"Eiche",3,2
+372,"Nadelbaum","Eibe",20,4.6,"Kiefer",1,6
+375,"Laubbaum","Hängebirke",30,7.5,"Eiche",1,7
+376,"Laubbaum","n.a.",25,7.8,"Eiche",1,7
+377,"Nadelbaum","Schwarzkiefer",12,4.4,"Kiefer",1,2
+378,"Nadelbaum","Schwarzkiefer",10,3.7,"Kiefer",1,2
+379,"Nadelbaum","Schwarzkiefer",8.48528137423857,4.2,"Kiefer",2,1
+380,"Nadelbaum","Schwarzkiefer",8.48528137423857,3.8,"Kiefer",2,1
+381,"Laubbaum","Kornelkirsche",15.5884572681199,4.9,"Buche",3,3
+382,"Laubbaum","Felsenbirne",7,2.8,"Eiche",1,1
+383,"Laubbaum","Kornelkirsche",14,5.1,"Buche",4,3
+384,"Laubbaum","Kornelkirsche",18.3847763108502,4.5,"Buche",2,5
+385,"Laubbaum","Felsenbirne",9.89949493661167,3.1,"Eiche",2,2
+386,"Laubbaum","Weidenblättrige Birne",22,5.5,"Eiche",1,6
+387,"Laubbaum","Hartriegel",14,3.5,"Eiche",4,4
+388,"Laubbaum","Dreispitzahorn",25.4558441227157,7.8,"Eiche",2,7
+389,"Laubbaum","Dreispitzahorn",13,6,"Eiche",1,4
+390,"Laubbaum","Dreispitzahorn",16.9705627484771,7,"Eiche",2,4
+391,"Laubbaum","Felsenbirne",13.4164078649987,4.2,"Eiche",5,4
+392,"Laubbaum","Hartriegel",6,2.8,"Eiche",1,1
+393,"Laubbaum","Hartriegel",8,3.2,"Eiche",1,1
+394,"Laubbaum","Hartriegel",15.5884572681199,6.1,"Eiche",3,5
+395,"Laubbaum","Hartriegel",13.856406460551,5.6,"Eiche",3,4
+396,"Laubbaum","Hartriegel",13.856406460551,5.3,"Eiche",3,4
+397,"Laubbaum","Hartriegel",12.1243556529821,6.1,"Eiche",3,2
+398,"Laubbaum","Hartriegel",11.3137084989848,5.8,"Eiche",2,2
+399,"Laubbaum","Hartriegel",15.556349186104,6.4,"Eiche",2,5
+400,"Laubbaum","Hartriegel",16,4.3,"Eiche",4,5
+401,"Laubbaum","Hartriegel",13.856406460551,6,"Eiche",3,4
+402,"Laubbaum","Hartriegel",15.8113883008419,6,"Eiche",10,5
+403,"Laubbaum","Hartriegel",12.7279220613579,5.1,"Eiche",2,4
+404,"Laubbaum","Hartriegel",9.89949493661167,4.7,"Eiche",2,2
+405,"Laubbaum","Hartriegel",7,4.2,"Eiche",1,1
+406,"Laubbaum","Hartriegel",15.6524758424985,4.4,"Eiche",5,5
+407,"Laubbaum","Hartriegel",19.7989898732233,6.1,"Eiche",8,6
+408,"Laubbaum","Hartriegel",15.556349186104,6,"Eiche",2,5
+409,"Laubbaum","Hartriegel",10,3.8,"Eiche",4,2
+410,"Laubbaum","Hartriegel",8.48528137423857,4.3,"Eiche",2,1
+411,"Laubbaum","Gewöhnlicher Liguster",8.48528137423857,4.3,"Eiche",2,1
+412,"Laubbaum","Baumliguster",14.6969384566991,4.1,"Eiche",6,5
+413,"Laubbaum","Kornelkirsche",12,4.1,"Buche",4,2
+414,"Laubbaum","Baumliguster",8,4.8,"Eiche",1,1
+415,"Laubbaum","Rote Heckenkirsche",7,4,"Buche",1,1
+416,"Laubbaum","Baumliguster",22.0454076850486,5.2,"Eiche",6,6
+417,"Laubbaum","Baumliguster",11,7.6,"Eiche",1,2
+418,"Laubbaum","Kirschpflaume",12,4.4,"Eiche",4,2
+419,"Nadelbaum","Eibe",7,4.5,"Kiefer",1,1
+420,"Laubbaum","Kleinfruchtiger Zierapfel",7,3,"Eiche",1,1
+421,"Laubbaum","Felsenbirne",6,3.3,"Eiche",1,1
+422,"Laubbaum","Süßkirsche",13,4.1,"Buche",1,2
+423,"Laubbaum","Felsenbirne",5,2.5,"Eiche",1,1
+424,"Laubbaum","Süßkirsche",9,5.2,"Buche",1,1
+425,"Nadelbaum","Echte Zypresse",12,6.9,"Kiefer",1,2
+426,"Laubbaum","Süßkirsche",18,3.5,"Buche",1,5
+427,"Laubbaum","Bergahorn",18,5.4,"Eiche",1,6
+428,"Nadelbaum","Abendländischer Lebensbaum",19.7989898732233,7.7,"Kiefer",2,6
+429,"Laubbaum","Echte Feige",8,2.7,"Eiche",1,1
+430,"Laubbaum","Echte Feige",9.89949493661167,2.4,"Eiche",2,2
+431,"Laubbaum","Echte Feige",6,2.7,"Eiche",1,1
+432,"Laubbaum","Echte Feige",6,2.6,"Eiche",1,1

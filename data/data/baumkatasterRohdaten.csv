@@ -1,0 +1,389 @@
+fid,STRINGGUID,KODIERUNG,BAUMNR,TYP,GEFAELLT_A,ART,PFLEGE,KD,CREATE_BY,CHANGE_BY,CREATE_DAT,CHANGE_DAT,Rechtswert,Hochwert,Baumart_la,Sorte,Bewaesseru,Baumalter,GA_NR,GA_NAME,Pflanzdatu,id,NAME_DT,NAME_LAT,BHD,KRONE_D,HOEHE,KOMMENTAR
+1,{F55273ED-6005-4749-A0D4-1E07D3BD4F13},,"1.00302",B,,Laubbaum,False,13,,bruchsal_baum,,2024/01/09,3470677,5443129.79,Tilia spec.,,"0",67 Jahre,1/001/209,Babette Ihle Platz,12.11.1955 00:00:00,1,Winterlinde,Tilia cordata,0.38,10,12.4,"8 qm, Rindenmulch "
+2,{31DB61AD-A381-48AE-8057-0381B0DE2363},,"1.00303",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/09,3470685.81,5443124.88,Tilia spec.,,"0",67 Jahre,1/001/209,Babette Ihle Platz,12.11.1955 00:00:00,1,Winterlinde,Tilia cordata,0.36,10,12,"8 qm, Rindenmulch "
+3,{AAF5F061-7F9E-4110-BB28-7FFDAC9A94D0},,"1.00304",B,,Laubbaum,False,11,,bruchsal_baum,,2024/01/09,3470693.26,5443121.49,Tilia spec.,,"0",67 Jahre,1/001/209,Babette Ihle Platz,12.11.1955 00:00:00,1,Winterlinde,Tilia cordata,0.57,15.5,16.2,"8 qm,  Rindenmulch"
+4,{FE6CF817-56CC-4FD2-81F6-B6E750C73378},,"1.50601",B,,Laubbaum,True,13,,bruchsal_baum,,2024/02/05,3470849.24,5443047.51,Gleditisia triacanthos,,"0",34 Jahre,1/001/164,Dr.-Karl-Meister-Straße,18.12.1989 00:00:00,1,Amerikanische Gleditschie,Gleditisia triacanthos,0.4,12.7,11.5,
+5,{C65F5885-45EB-4837-984E-B2068422B13F},,"1.50602",B,,Laubbaum,False,10,,bruchsal_baum,,2024/01/18,3470846.73,5443057.14,Gleditisia triacanthos,,"0",34 Jahre,1/001/164,Dr.-Karl-Meister-Straße,18.12.1989 00:00:00,1,Amerikanische Gleditschie,Gleditisia triacanthos,0.35,10.7,11.5,
+6,{BDC58A92-6B52-4A4F-B513-21B1630C6B05},,"1.50603",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470834.29,5443041.5,Tilia spec.,,"0",32 Jahre,1/001/164,Dr.-Karl-Meister-Straße,18.12.1989,1,Winterlinde,Tilia cordata,0.2,7,8.3,"3 qm,  verdichteter Boden"
+7,{1D1A601F-DC70-4C1D-8B5A-DDDAC15DCA87},,"1.50604",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470827.74,5443049.23,Tilia spec.,,"0",33 Jahre,1/001/164,Dr.-Karl-Meister-Straße,18.12.1989 00:00:00,1,Winterlinde,Tilia cordata,0.2,6.2,8.4,"3 qm,  verdichteter Boden"
+8,{52CF7ED9-636A-431F-942F-B2F49ACD794A},,"1.50605",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470821.39,5443056.18,Tilia spec.,,"0",33 Jahre,1/001/164,Dr.-Karl-Meister-Straße,18.12.1989 00:00:00,1,Winterlinde,Tilia cordata,0.2,5.5,8.7,"3 qm,  verdichteter Boden"
+9,{9D70920B-12E9-4920-9382-38147DDEB2D1},,"1.50606",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470816.83,5443061.54,Tilia spec.,,"0",33 Jahre,1/001/164,Dr.-Karl-Meister-Straße,18.12.1989 00:00:00,1,Winterlinde,Tilia cordata,0.28,7.5,12.8,"3 qm,  verdichteter Boden"
+10,{C2371290-242F-4AF4-AE92-88BA08D15465},,"1.50607",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470806.91,5443072.85,Tilia spec.,,"0",33 Jahre,1/001/164,Dr.-Karl-Meister-Straße,18.12.1989 00:00:00,1,Winterlinde,Tilia cordata,0.2,7,8.4,"3 qm,  verdichteter Boden"
+11,{4E032C85-4B0A-49C6-9E52-1D1B61BDF86F},,"1.50608",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470801.95,5443078.21,Tilia spec.,,"0",34 Jahre,1/001/164,Dr.-Karl-Meister-Straße,18.12.1989 00:00:00,1,Winterlinde,Tilia cordata,0.21,7.5,10,"3 qm,  verdichteter Boden"
+12,{FA05161B-BB69-4D4B-B781-97CD5F804749},,"1.50609",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470798.38,5443082.77,Tilia spec.,,"0",33 Jahre,1/001/164,Dr.-Karl-Meister-Straße,18.12.1989 00:00:00,1,Winterlinde,Tilia cordata,0.23,7,9.9,"3 qm, verdichteter Boden"
+13,{07D825A6-22E7-4AAF-957D-80375EB6B970},,"1.50201",B,,Laubbaum,True,9,,bruchsal_baum,,2024/01/18,3470765.1,5443124.01,Aesculus hippocastanum,,"0",111 Jahre,1/001/161,Am Alten Schloß,01.01.1911,1,Gewöhnliche Rosskastanie,Aesculus hippocastanum,0.33,8.4,9.3,3 qm 
+14,{917BD05C-4A8B-4712-96FA-C5EABCE57AEE},,"1.31301",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470793.92,5443166.35,Acer platanoides,,"0",35 Jahre,1/001/065,Pfeilerstraße,06.12.1988 00:00:00,1,Spitzahorn,Acer platanoides,0.23,8.3,10.1,"4 qm, Rigole mit Spontanbewuchs "
+15,{4BF38472-AB31-4283-A177-7B6D394B471A},,"1.31302",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470845.52,5443142.54,Acer pseudoplatanus,,"0",35 Jahre,1/001/065,Pfeilerstraße,06.12.1988 00:00:00,1,Bergahorn,Acer pseudoplatanus,0.19,5,8.5,BHD geschätzt
+16,{5CCCA129-0BFB-427D-B75A-629995211B2C},,"1.31303",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470860.86,5443160.27,Acer pseudoplatanus,,"0",33 Jahre,1/001/065,Pfeilerstraße,06.12.1988,1,Bergahorn,Acer pseudoplatanus,0.24,6,12.2,
+17,{8FA8A6C1-3DC8-4242-99B9-F4F5EA468BAC},,"1.31304",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470851.87,5443160,Acer pseudoplatanus,,"0",34 Jahre,1/001/065,Pfeilerstraße,06.12.1988 00:00:00,1,Bergahorn,Acer pseudoplatanus,0.17,5.5,8,
+18,{DFF5F874-DE83-4276-A69E-CA0CCE491B1A},,"1.31305",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470842.61,5443158.15,Acer pseudoplatanus,,"0",35 Jahre,1/001/065,Pfeilerstraße,06.12.1988 00:00:00,1,Bergahorn,Acer pseudoplatanus,0.24,6,11.2,
+19,{AF7DD034-8832-4832-93B9-D7D9F8D83A7F},,"1.00762",B,,Laubbaum,False,11,,bruchsal_baum,,2024/01/18,3470906.07,5443058.73,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.36,10,16.1,
+20,{3310C05B-97E7-4C52-ACDD-2F91274810F0},,"1.00766",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470901.45,5443037.45,Betula papyrifera,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Papierbirke,Betula papyrifera,0.2,7.6,8.7,
+21,{A91B1515-7DFA-43BA-A811-C47BED969806},,"1.00768",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470887.61,5443044.33,Alnus incana,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Grau-Erle,Alnus incana,0.34,8,7.9,
+22,{F2504787-73A6-4C6F-81C5-225195ADA4CA},,"1.00770",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470870.38,5443061.2,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.23,7,9.5,
+23,{864DA27A-5B0B-43BD-A37D-A192DAAD29B2},,"1.00772",B,,Nadelbaum,False,6,,bruchsal_baum,,2024/01/18,3470881.04,5443080.12,Pinus nigra ssp. Nigra,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Schwarzkiefer,Pinus nigra ssp. Nigra,0.28,5.7,11.8,
+24,{4D41972E-0432-473B-961B-CA5B9A732AC2},,"1.00773",B,,Nadelbaum,False,8,,bruchsal_baum,,2024/01/18,3470878.18,5443081.1,Pinus nigra ssp. Nigra,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Schwarzkiefer,Pinus nigra ssp. Nigra,0.3,8.3,9.2,
+25,{B90BF4A1-620D-4028-ACA4-D5C67C8AAC1E},,"1.00774",B,,Nadelbaum,False,9,,bruchsal_baum,,2024/01/18,3470877.11,5443083.22,Pinus nigra ssp. Nigra,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Schwarzkiefer,Pinus nigra ssp. Nigra,0.36,9.3,10.2,
+26,{92A84F7D-BC1F-4329-A760-9F05EF8C6DE9},,"1.00775",B,,Laubbaum,False,10,,bruchsal_baum,,2024/01/18,3470870.81,5443077.49,Carpinus betulus,Fastigiata,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Hainbuche,Carpinus betulus,0.33,10.4,11.6,
+27,{56EB5FF8-9832-4927-956C-425B0CAF750E},,"1.00301",B,,Laubbaum,False,17,,bruchsal_baum,,2024/01/09,3470666.84,5443134.53,Tilia spec.,,"0",67 Jahre,1/001/209,Babette Ihle Platz,12.11.1955 00:00:00,1,Winterlinde,Tilia cordata,0.57,17.2,12.1,"9 qm, Rindenmulch "
+38,{35700A2F-F800-4700-9FBE-C78384113C5B},,"1.31617",B,,Laubbaum,True,9,,bruchsal_baum,,2024/01/18,3470751.49,5443081.09,TILIA CORDATA,Greenspire,"0",34 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,01.01.1989 00:00:00,1,Winterlinde,Tilia cordata,0.36,0.5,14.5,"4 qm, Bank über Baumscheibe "
+39,{2801478C-73B8-43EF-B970-1A8D4753CC42},,"1.31618",B,,Laubbaum,True,7,,bruchsal_baum,,2024/01/18,3470756.26,5443075.33,TILIA CORDATA,Greenspire,"0",34 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,01.01.1989 00:00:00,1,Winterlinde,Tilia cordata,0.29,7.2,9,"4 qm, Bank über Baumscheibe"
+40,{7DCE7128-8969-44BE-85B7-034F300D3DA2},,"1.31619",B,,Laubbaum,True,8,,bruchsal_baum,,2024/01/18,3470761.41,5443070.54,TILIA CORDATA,Greenspire,"0",35 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,01.01.1989 00:00:00,1,Winterlinde,Tilia cordata,0.28,7.2,12.7,"4 qm, Bank über Baumscheibe "
+41,{B4C25943-62F8-4444-99F8-EBDC0DB85E54},,"1.31624",B,,Laubbaum,True,8,,bruchsal_baum,,2024/01/18,3470795.68,5443030.72,TILIA CORDATA,Greenspire,"0",32 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,01.01.1992 00:00:00,1,Winterlinde,Tilia cordata,0.26,8,12,"4 qm,  Rindenmulch "
+42,{2261134C-4669-408B-ADD7-441CC896AADE},,"1.31625",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470800.84,5443025.03,TILIA CORDATA,Greenspire,"0",32 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,01.01.1992 00:00:00,1,Winterlinde,Tilia cordata,0.23,6,10.7,"4 qm,  Rindenmulch "
+43,{978EB47E-B3A1-45C0-BA16-0F0DAA182F42},,"1.31626",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470811.82,5443013.79,TILIA CORDATA,Greenspire,"0",30 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,08.12.1993 00:00:00,1,Winterlinde,Tilia cordata,0.3,8.5,13,"4 qm,  Rindenmulch"
+44,{C37DE686-AC1F-4144-9335-13E7E3BCDA5D},,"1.31627",B,,Laubbaum,True,7,,bruchsal_baum,,2024/01/18,3470822.93,5442998.57,TILIA CORDATA,Greenspire,"0",30 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,08.12.1993 00:00:00,1,Winterlinde,Tilia cordata,0.25,7,12.2,"4 qm,  Bank über Baumscheibe"
+45,{4CE85025-D56B-412D-8058-7C1455E6D544},,"1.31628",B,,Laubbaum,True,8,,bruchsal_baum,,2024/01/18,3470831,5442990.5,TILIA CORDATA,Greenspire,"0",29 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,08.12.1993 00:00:00,1,Winterlinde,Tilia cordata,0.24,8.7,13,"4 qm,  Rabatte mit Zierpflanzen "
+46,{60078322-4DC1-42B0-83C6-1D5E4FB02060},,"1.31630",B,,Laubbaum,False,2,,bruchsal_baum,,2023/09/12,3470850.58,5442969.6,Liquidambar  styraciflua,Worplesdon,"3",5 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,13.04.2021 00:00:00,1,Amerikanischer Amberbaum,Liquidamber styraciflua,0.07,2,5.8,"4 qm,  Rabatte mit Zierbepflanzung"
+47,{496B00D4-C318-4CFE-99AF-A3C9CE98B007},,"1.31631",B,,Laubbaum,True,7,,bruchsal_baum,,2024/01/18,3470860.24,5442958.09,TILIA CORDATA,Greenspire,"0",30 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,08.12.1993 00:00:00,1,Winterlinde,Tilia cordata,0.2,5,10.9,"4 qm,  Rindenmulch"
+48,{324626EB-3153-436F-9A9B-13BAB6964A01},,"1.31632",B,,Laubbaum,True,4,,bruchsal_baum,,2024/01/18,3470864.34,5442954.39,TILIA CORDATA,Greenspire,"0",30 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,08.12.1993 00:00:00,1,Winterlinde,Tilia cordata,0.22,4,9.9,"4 qm,  Rindenmulch,  Schädlingsbefall"
+49,{2CF13D7E-8C85-4543-B250-DF52CC717037},,"1.00702",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470962.53,5443122.43,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Spitzahorn,Acer platanoides,0.2,8.7,13.2,
+50,{F8C82D1E-8879-4C40-AED2-077E223C9742},,"1.00703",B,,Laubbaum,False,13,,bruchsal_baum,,2024/01/18,3470961.27,5443130.62,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Spitzahorn,Acer platanoides,0.32,10.5,12.7,
+51,{008A0AEB-CB2C-4F39-99DB-B067B4A18B0A},,"1.00706",B,,Laubbaum,False,11,,bruchsal_baum,,2024/01/18,3470943.48,5443152.95,Tilia spec.,,"0",31 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.55,14.2,14,BHD geschätzt 
+52,{9030737C-0A6F-4644-ADCF-6C2485FC1697},,"1.00708",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470927.98,5443149.98,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.25,8.6,12.1,
+53,{C76684E7-59E1-416D-A9A4-8E7CA90F9EBA},,"1.00709",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470915.55,5443149.98,Tilia spec.,,"0",31 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.22,9,11.7,
+54,{12ED8281-5223-4BE0-B299-551EAF713D14},,"1.00710",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470921.5,5443134.14,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.35,10.1,13,
+55,{7D931B16-AC38-4008-ADBC-E652142443EA},,"1.00711",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470920.37,5443130.37,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.33,8.6,9.1,
+56,{4DB189A0-C081-4BCE-9F75-09FB95CEBE58},,"1.00713",B,,Laubbaum,False,9,,bruchsal_baum,,2023/11/15,3470922.7,5443109.43,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.27,10.2,11.8,
+57,{C04FBBD1-631A-401C-89B2-7CD5EF503A7C},,"1.00714",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470926.67,5443107.78,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.29,9.6,12.3,
+58,{3033C2DC-2BD4-4F3A-8E92-A9869C5B4E85},,"1.00715",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470927.99,5443103.14,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.26,9.4,10.8,
+59,{6E3D19F0-4C94-4C31-BCF9-3C6D4B9355ED},,"1.00716",B,,Laubbaum,False,13,,bruchsal_baum,,2024/01/18,3470932.89,5443123.25,Ailanthus altissima,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Götterbaum,Ailanthus altissima,0.42,18.5,11.3,Drüsiger Götterbaum?
+60,{642A09C3-9037-484D-983C-3EF8A6B20167},,"1.00717",B,,Laubbaum,False,10,,bruchsal_baum,,2024/01/18,3470941.45,5443126.05,Ailanthus altissima,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Götterbaum,Ailanthus altissima,0.34,15.8,14.2,Drüsiger Götterbaum?
+61,{ADB3FFA2-A3F3-4022-B0DA-CB84E703177D},,"1.00720",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470971.44,5443071.34,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+62,{E8946A89-F5F2-4D07-999C-F1A1A71E56EC},,"1.00721",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470971.93,5443057.23,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+63,{0D93E134-1538-4F2D-9BA3-250644617421},,"1.00722",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470972.93,5443052.98,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+64,{905D1875-C5FF-4D05-B018-D18DFAC0511E},,"1.00723",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470973.49,5443039.92,Tilia cordata,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,,,,,,
+65,{DEC4BF91-134F-4918-9D3A-82A57DF26A07},,"1.00724",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470973.29,5443035.96,Tilia spec.,,"0",31 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+66,{2B8529AB-9E0A-4853-9CE4-A3096D42BDFD},,"1.00725",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470969.71,5443035.94,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,,,,,,
+67,{12CE0AC7-CF96-4257-A989-7EF213879185},,"1.00728",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470965.63,5443075.2,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,,,,,,
+68,{BF619143-5C23-4A81-A5EE-3E3E08ABD058},,"1.00729",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470966.7,5443079.96,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+69,{F11539F2-2003-47E8-8A3C-15B9D9524961},,"1.00730",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470959.03,5443094.53,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,,,,,,
+70,{0149077C-A562-437E-B28B-2ACA976E39C8},,"1.00731",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470956.4,5443092.93,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+71,{D7505E13-57DA-48AF-AD82-D14E199C20F8},,"1.00733",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470940.81,5443089.43,Malus,Evereste,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+72,{5AFC30DE-3040-4073-AC45-343827EC6B30},,"1.00734",B,,Laubbaum,False,11,,bruchsal_baum,,2024/01/18,3470933.06,5443095.05,Ailanthus altissima,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Götterbaum,Ailanthus altissima,0.37,13.6,11,
+73,{AD0D3B8A-2301-464B-BE31-7BB1C3C4604C},,"1.00735",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470937.82,5443083.67,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+74,{EC93C416-0213-4305-9E03-C43816F42522},,"1.00737",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470939.53,5443050.96,Carpinus betulus,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+75,{26E39162-3BD5-446B-8677-2857B6248869},,"1.00752",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470942.24,5443082.09,Carpinus betulus,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+76,{66719518-5288-419D-84EA-44BDD28949DF},,"1.00757",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470914.33,5443027.63,Alnus spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Erle,,,,,Gefällt? Nicht vorhanden
+77,{86D2DFCD-5805-4688-AB48-1412C27DC2E0},,"1.00759",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470918.12,5443055.51,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.33,10.7,13.8,
+78,{C5E4BB5F-CA61-44FF-A42F-CDF663F8E0CC},,"1.00760",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470913.69,5443052.91,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.33,10.8,15,
+79,{ED83D2E7-826B-4609-8106-E1C8CBED3DC9},,"1.00761",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470909.04,5443053.79,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.31,7.5,15.5,
+80,{E94DE7D2-6838-4F21-B504-86FC66293401},,"1.007102",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470920.09,5442967.06,TILIA CORDATA,Greenspire,"0",31 Jahre,1/001/008,Bürgerpark,01.01.1991,1,Winterlinde,Tilia cordata,0.23,7.3,11.6,
+81,{DEE7ADE6-957C-46E3-8814-7B866099993A},,"1.007103",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470923.59,5442973.68,TILIA CORDATA,Greenspire,"0",31 Jahre,1/001/008,Bürgerpark,01.01.1991,1,Winterlinde,Tilia cordata,0.35,8.3,12,
+82,{B063860C-BEF3-48FD-81E5-C2AC1E198D3E},,"1.007104",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470927.03,5442980.27,TILIA CORDATA,Greenspire,"0",31 Jahre,1/001/008,Bürgerpark,01.01.1991,1,Winterlinde,Tilia cordata,0.26,8.7,12.5,
+83,{41E61280-FF4B-4910-98D4-19E485980C4E},,"1.007105",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470930.17,5442987.34,TILIA CORDATA,Greenspire,"0",31 Jahre,1/001/008,Bürgerpark,01.01.1991,1,Winterlinde,Tilia cordata,0.24,8.2,12.3,
+84,{17949E0E-7434-4CA4-9229-35DCCBAE6563},,"1.007106",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470933.3,5442994.66,TILIA CORDATA,Greenspire,"0",31 Jahre,1/001/008,Bürgerpark,01.01.1991,1,Winterlinde,Tilia cordata,0.3,11,14.6,
+85,{4CD82490-58F0-434E-9157-4AEF004A2082},,"1.007107",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470936.2,5443002.02,TILIA CORDATA,Greenspire,"0",32 Jahre,1/001/008,Bürgerpark,01.01.1991 00:00:00,1,Winterlinde,Tilia cordata,0.3,9.5,13.6,
+86,{22899C0D-57F6-4CFE-94F8-6459FBC29EC4},,"1.31644",B,,Laubbaum,False,7,,bruchsal_baum,,2023/09/12,3470912.6,5442955.89,TILIA CORDATA,Greenspire,"0",31 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,20.02.1992 00:00:00,1,Winterlinde,Tilia cordata,0.28,8.5,10.3,"4 qm,  Metallrigole"
+87,{6DE2131A-C65F-45B9-A909-4D8D33FF49F8},,"1.31645",B,,Laubbaum,False,8,,bruchsal_baum,,2023/09/12,3470915.88,5442961.74,TILIA CORDATA,Greenspire,"0",31 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,20.02.1992 00:00:00,1,Winterlinde,Tilia cordata,0.25,6.4,9.5,"4 qm,  Metallrigole"
+91,{1D49FB4F-0FF0-43B3-8CD4-57457ACCCB46},,"1.00776",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470868.86,5443086.85,Carpinus betulus,Fastigiata,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Hainbuche,Carpinus betulus,0.23,7.5,10.5,
+92,{3521BF34-4A59-4131-B7F7-4E45F3FB8E99},,"1.00777",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470871.48,5443091.03,Carpinus betulus,Fastigiata,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Hainbuche,Carpinus betulus,0.17,7.8,11.7,2 Stämme a 0.17 m
+93,{019350F0-99A9-4ADE-9C21-32C63610E067},,"1.00779",B,,Nadelbaum,False,11,,bruchsal_baum,,2024/01/18,3470885.75,5443097.43,Pinus nigra ssp. Nigra,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Schwarzkiefer,Pinus nigra ssp. Nigra,0.37,11.4,14.8,
+94,{952CEC1F-8CA2-4020-B390-AB854CF3BBA1},,"1.00781",B,,Laubbaum,False,12,,bruchsal_baum,,2024/01/18,3470884.54,5443109.59,Gleditisia triacanthos,,"0",31 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Amerikanische Gleditschie,Gleditisia triacanthos,0.51,14.6,16.8,
+95,{CB390C8C-1AE8-4CB9-A4B0-DE6227DBC8F2},,"1.00783",B,,Nadelbaum,False,7,,bruchsal_baum,,2024/01/18,3470893.04,5443097.28,Pinus nigra ssp. Nigra,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Schwarzkiefer,Pinus nigra ssp. Nigra,0.38,9.5,12.3,
+96,{0F893CF4-DF60-4A76-B988-FB381E9A7F13},,"1.00784",B,,Laubbaum,Nein,0,,,,,3470897.13,5443096.04,Carpinus betulus,,"0",,,,,1,,,,,,Gefällt? Nicht vorhanden 
+97,{64A8B2F4-2B3D-4F99-A8E8-847EFD7498A3},,"1.00785",B,,Laubbaum,False,11,,bruchsal_baum,,2024/01/18,3470900.21,5443097.97,Carpinus betulus,,"0",30 Jahre,1/001/008,Bürgerpark,15.11.1991,1,Hainbuche,Carpinus betulus,0.36,11,9.9,
+98,{893380CC-B21F-4486-95F2-D981FE180B82},,"1.00786",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470917.24,5443106.53,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.35,10.2,14.5,
+99,{8D74831B-5638-43B8-9898-1F92B7C026DA},,"1.00787",B,,Laubbaum,False,10,,bruchsal_baum,,2024/01/18,3470897.59,5443120.07,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Spitzahorn,Acer platanoides,0.3,12.7,11.9,
+100,{07EC491F-F37E-4484-AADA-6EF111571E5D},,"1.00788",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470893.39,5443124.62,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Spitzahorn,Acer platanoides,0.29,11,12.5,
+101,{505B0F35-2B96-4715-8352-084A086A2F44},,"1.00789",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470887.3,5443120.52,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Spitzahorn,Acer platanoides,0.3,9,9.8,BHD geschätzt
+102,{F1D4AF2F-AAFA-48F4-B5D1-89D8944B5927},,"1.00790",B,,Laubbaum,False,10,,bruchsal_baum,,2024/01/18,3470878.31,5443121.31,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,15.11.1991,1,Spitzahorn,Acer platanoides,0.35,12,13.1,BHD geschätzt
+103,{C9062C33-3247-4890-945D-C23C53AD99B9},,"1.00791",B,,Laubbaum,False,12,,bruchsal_baum,,2024/01/18,3470875.53,5443124.09,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Spitzahorn,Acer platanoides,0.32,12,8.8,BHD geschätzt
+104,{B90C04D9-C9BD-4852-B2B3-35D4929521A4},,"1.00792",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470866.89,5443122.19,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.24,6.9,10.3,
+105,{597C5367-675A-47A3-8B6A-C2CC8CEAFA76},,"1.00793",B,,Laubbaum,False,10,,bruchsal_baum,,2024/01/18,3470864.48,5443127.23,Tilia spec.,,"0",31 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.23,9,10.4,
+106,{B816ADC3-E75D-4496-9842-7D6CEFA0E60F},,"1.00794",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470860.63,5443131.86,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.29,7.4,10,
+107,{96B4689C-A1D2-4673-AB0A-06D24B5AFEFF},,"1.00795",B,,Laubbaum,False,3,,bruchsal_baum,,2024/01/18,3470856.07,5443137.28,Tilia cordata,Rancho,"3",4 Jahre,1/001/008,Bürgerpark,15.03.2018 00:00:00,1,Winterlinde,Tilia cordata,0.07,3.2,5.4,
+108,{90E26A76-5E28-404B-987F-E66481E3E82F},,"1.00796",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470849.57,5443140.18,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.18,6,8,
+109,{E7BD9D9E-C741-44D3-9969-68A4D9C96CBC},,"1.00797",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470867.99,5443155.58,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.25,8,9.9,Noch im falschen Biotop ->muss auf die Brücke 
+110,{8FCF7C6A-8258-41EF-A76E-4F72961CAF9A},,"1.00798",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470875.39,5443152.86,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordate,0.4,12,16,"BHD, Höhe und Krone geschätzt, nachkartiert"
+111,{2D996DE5-21B0-4F04-9D69-412240D428FD},,"1.00799",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470880.34,5443156.03,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.36,10.5,15.2,
+112,{A20F349C-89C1-4C3C-9046-B0E7A1B6B719},,"1.007100",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470889.55,5443152.48,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.18,6.2,10.2,
+113,{6E7B1351-140E-4FEC-B1EB-7E3B9EA3459C},,"1.00804",B,,Laubbaum,False,6,,bruchsal_baum,,2023/05/02,3470632.19,5443088,Celtis australis,,"3",9 Jahre,1/001/009,Kirchplatz,29.04.2014 00:00:00,1,Südlicher Zürgelbaum,Celtis australis,0.21,7.7,7.2,"5 qm, verdichtete Erde "
+114,{0DA3CCD3-BE53-4C86-8C4B-4BAAFAAEF7E1},,"1.00805",B,,Laubbaum,False,6,,bruchsal_baum,,2023/05/02,3470627.21,5443080.75,Celtis australis,,"3",9 Jahre,1/001/009,Kirchplatz,29.04.2014 00:00:00,1,Südlicher Zürgelbaum,Celtis australis,0.25,7.7,7.4,"5 qm, verdichtete Erde "
+115,{9D64BC97-4615-4C59-8F37-773BDC17C17A},,"1.01201",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/09,3470790.68,5442911.82,Acer pseudoplatanus,Erectum,"0",30 Jahre,1/001/012,Stadtgrabenstraße,15.12.1993 00:00:00,1,Bergahorn,Acer pseudoplatanus,0.27,7,9.7,"4 qm, Rigole"
+116,{A4C9C005-062C-49F0-A456-1E5FB0AED438},,"1.01202",B,,Laubbaum,False,2,,bruchsal_baum,,2024/01/09,3470769.33,5442904.2,Prunus serrulata,Kanzan,"3",8 Jahre,1/001/012,Stadtgrabenstraße,03.02.2015 00:00:00,1,Japanische Blütenkirsche,Prunus serrulata,0.08,3.2,4.3,
+117,{C3F328B8-083E-4BE5-9353-5E8B2EFD6C94},,"1.01203",B,,Laubbaum,False,2,,bruchsal_baum,,2024/01/09,3470757.13,5442903.22,Prunus serrulata,Kanzan,"3",8 Jahre,1/001/012,Stadtgrabenstraße,01.04.2019 00:00:00,1,Japanische Blütenkirsche,Prunus serrulata,0.09,3,4.9,
+118,{DFB99482-ACED-432A-B7CA-2E9D287AB4E5},,"1.01204",B,,Laubbaum,False,2,,bruchsal_baum,,2024/01/09,3470751.13,5442902.98,Prunus serrulata,Kanzan,"3",8 Jahre,1/001/012,Stadtgrabenstraße,01.04.2019 00:00:00,1,Japanische Blütenkirsche,Prunus serrulata,0.1,2.6,5,
+119,{F67FD627-DA91-4622-9028-F93EB9457C96},,"1.01206",B,,Laubbaum,False,2,,bruchsal_baum,,2024/01/09,3470733.17,5442901.4,Prunus serrulata,Kanzan,"3",5 Jahre,1/001/012,Stadtgrabenstraße,14.04.2021 00:00:00,1,Japanische Blütenkirsche,Prunus serrulata,0.07,1.6,4.7,
+130,{B2C13A9D-6D3C-48FD-95B3-19D5C8750FAF},,"1.31612",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470710.88,5443084.1,Acer campestre,,"0",29 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,31.12.1992,1,Feldahorn,Acer campestre,0.26,6.6,8.8,"4 qm, Rigole mit Stammgitter"
+131,{BAA03E11-7FEA-4A3C-B4AE-260A97E9959B},,"1.31613",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470716.44,5443085.16,Acer campestre,,"0",30 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,31.12.1992 00:00:00,1,Feldahorn,Acer campestre,0.24,6,7.3,"4 qm, Rigole mit Stammgitter"
+132,{90476117-54F9-49BE-97C4-B389EE806854},,"1.31614",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470719.08,5443080.66,Acer campestre,,"0",29 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,31.12.1992,1,Feldahorn,Acer campestre,0.22,5.8,7.2,"4 qm, Rigole mit Stammgitter"
+133,{BDD2EBC8-B349-45CB-A7BD-EA2B51FE4AA2},,"1.31615",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470714.32,5443077.48,Acer campestre,,"0",29 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,31.12.1992,1,Feldahorn,Acer campestre,0.34,8.4,10.4,"4 qm, Rigole mit Stammschutz"
+134,{EDDA4021-1646-4BCB-823D-AAF4A2B67780},,"1.31616",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470710.88,5443079.6,Acer campestre,,"0",29 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,31.12.1992,1,Feldahorn,Acer campestre,0.3,7.9,8.5,"4 qm, Rigole mit Stammgitter"
+135,{8FF5E0F3-3137-4D05-A2B9-2592DDA7FD20},,"1.31621",B,,Laubbaum,False,3,,bruchsal_baum,,2024/01/18,3470773.32,5443056.38,Carpinus betulus,Frans Fontaine,"3",7 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,20.03.2015 00:00:00,1,Hainbuche,Carpinus betulus,0.14,3.6,6.7,"4 qm, Bank über Baumscheibe"
+136,{BDF77517-7C26-4CC6-B555-44CF1A36AD3E},,"1.31623",B,,Laubbaum,False,3,,bruchsal_baum,,2023/09/13,3470787.08,5443039.71,Carpinus betulus,Frans Fontaine,"3",8 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,20.03.2015 00:00:00,1,Hainbuche,Carpinus betulus,0.11,3.6,6.9,"4 qm,  Rindenmulch mit Spontanbewuchs"
+137,{4FD04BC0-C04B-4EDC-8D2A-FF06D67FA7FE},,"1.31629",B,,Laubbaum,True,7,,bruchsal_baum,,2024/01/18,3470842.91,5442977.14,Carpinus betulus,Frans Fontaine,"3",11 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,14.01.2013 00:00:00,1,Hainbuche,Carpinus betulus,0.13,6.5,8.2,"4 qm,  Rabatte mit Zierpflanzen"
+138,{0A5E6D1D-4B3C-4092-B7CF-74CE0E2E7B56},,"1.31633",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470816.06,5442918.95,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.26,5.5,4.2,"4 qm, Rigole, Kopfbaum"
+139,{0163781E-9370-41CB-A632-091E2A3A71D0},,"1.31634",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470816.99,5442914.59,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.28,6,4.5,"4 qm, Rigole, Kopfbaum"
+140,{F75431B7-A7E0-4099-AA9C-29573E1AA7D6},,"1.31635",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470820.29,5442919.88,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.28,6.5,4.3,"4 qm, Rigole, Kopfbaum"
+141,{2E79EDC3-8E5E-4A0E-825C-D141132CE00C},,"1.31636",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470821.24,5442915.68,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.28,6.5,4.4,"4 qm, Rigole, Kopfbaum "
+142,{7465DFCA-9299-4D99-8A68-169BDEEB36AB},,"1.31637",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470848.31,5442927.45,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.2,4.7,4.6,"4 qm, Rigole, Kopfbaum"
+143,{A4842E0F-D864-4339-96F7-AD4EEFF38262},,"1.31638",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470849.77,5442922.83,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.23,4,4.8,"4 qm, Rigole, Kopfbaum"
+144,{76D3BF06-F14D-47C8-9267-3EB3B28C43A2},,"1.31639",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470850.83,5442918.33,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.18,4.1,4.1,"4 qm, Rigole, Kopfbaum"
+145,{5D1CA3E7-0DA9-43C1-B513-029DAC48285F},,"1.31640",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470852.81,5442928.65,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.19,3.2,4,"4 qm, Rigole, Kopfbaum"
+146,{142B1BB6-32E4-447A-9957-2FC13BFAD737},,"1.31641",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470854,5442924.15,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.2,3.2,4.2,"4 qm, Rigole, Kopfbaum"
+147,{2E34A8D0-3B3C-4D4A-B1CC-EA225E8A7AC0},,"1.31642",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470855.33,5442919.65,Platanus x acerifolia,,"0",27 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,19.12.1996 00:00:00,1,Platane,Platanus x acerifolia,0.18,3.8,4.2,"4 qm, Rigole, Kopfbaum"
+150,{FA3D9BC7-0E73-4241-B0C3-EBBDB4B58F8D},,"1.007108",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470978.68,5442985.54,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+151,{408CE27D-EA98-4BCD-B400-2E7D15BF8D2B},,"1.007109",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470972.11,5442989.92,Acer platanoides,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,,,,,,
+152,{323BDCE5-B43F-4407-8D2C-992A9B93F5D9},,"1.007110",B,,Laubbaum,False,2,,bruchsal_baum,,2024/01/24,3470955.29,5442983.14,Quercus cerris,,"1",4 Jahre,1/001/008,Bürgerpark,15.01.2024 00:00:00,1,,,,,,
+153,{0391F614-8AF9-4668-981A-2BDD84C192DA},,"1.01209",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/09,3470709.28,5442899.18,Prunus serrulata,Kanzan,"0",18 Jahre,1/001/012,Stadtgrabenstraße,20.12.2005 00:00:00,1,,,,,,BHD < 0.05 m
+154,{2EC234B9-4E8F-4D58-A6C1-F824AEE1B83D},,"1.01213",B,,Laubbaum,False,2,,bruchsal_baum,,2024/01/24,3470693.96,5442883.99,Liriodendron tulipifera,,"1",4 Jahre,1/001/012,Stadtgrabenstraße,15.01.2024 00:00:00,1,Tulpenbaum,Liriodendron tulipifera,0.06,1.3,5.1,"3 qm, Spontanbewuchs"
+155,{EBBFFA89-AAD0-477D-B05C-D082AFCF827C},,"1.00802",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470646.38,5443107.37,TILIA CORDATA,Greenspire,"0",21 Jahre,1/001/009,Kirchplatz,01.01.2003 00:00:00,1,Winterlinde,Tilia cordata,0.18,7.2,8.6,"4 qm, Betonrigole mit Stammgitter "
+156,{C652E19D-FFE5-4023-9E95-6FE57B88DF61},,"1.00801",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470652.43,5443121.22,TILIA CORDATA,Greenspire,"0",20 Jahre,1/001/009,Kirchplatz,01.01.2003 00:00:00,1,Winterlinde,Tilia cordata,0.15,5,7.6,"4 qm, Betonrigole mit Stammgitter"
+157,{565BE2F1-5957-457C-BB5C-BC88A9C6DA67},1:007119,"1.007119",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"3",8 Jahre,1/001/008,Bürgerpark,11.08.2014,1,Hainbuche,Carpinus betulus,0.11,6.2,8,3 Stämme a 0.11 m
+158,{D755430C-4CB0-4F3A-A8B4-8A5D88F409B7},,"1.33712",B,,Laubbaum,True,10,,bruchsal_baum,,2024/01/18,3470849.77,5442889.24,TILIA CORDATA,Greenspire,"0",113 Jahre,1/001/083,Durlacher Str.,01.01.1911 00:00:00,1,Winterlinde,Tilia cordata,0.29,11,14.6,4 qm Rigole
+159,{C363C564-AE0E-45EE-A573-E8699EE1BA52},,"1.33713",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470861.53,5442891.28,TILIA CORDATA,Greenspire,"0",113 Jahre,1/001/083,Durlacher Str.,01.01.1911 00:00:00,1,Winterlinde,Tilia cordata,0.19,7,9.7,4 qm Rigole
+160,{98E349AC-9C56-430B-A0E0-C330ADC2D279},,"1.33714",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470872.12,5442894.78,TILIA CORDATA,Greenspire,"0",113 Jahre,1/001/083,Durlacher Str.,01.01.1911 00:00:00,1,Winterlinde,Tilia cordata,0.2,8.5,9.4,4 qm Rigole
+161,{46754199-40A8-4E3F-925F-C98861BF641E},,"1.31646",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470879.36,5442951.58,Platanus x acerifolia,,"0",20 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,09.05.2003 00:00:00,1,Platane,Platanus x acerifolia,0.2,4,4.2,"4 qm, Kies, Kopfbaum"
+162,{0740CE89-1247-4513-B1EC-8C11B1D0E256},,"1.31647",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470883.08,5442954.94,Platanus x acerifolia,,"0",20 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,09.05.2003 00:00:00,1,Platane,Platanus x acerifolia,0.16,4,4.1,"4 qm, Rigole, Kopfbaum"
+163,{4E0F4228-BE77-4F14-8653-ED744954AFE3},,"1.31648",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470886.7,5442958.12,Platanus x acerifolia,,"0",20 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,09.05.2003 00:00:00,1,Platane,Platanus x acerifolia,0.16,4,4.2,"4 qm, Rigole, Kopfbaum"
+164,{B71A8DE9-C61F-4AF6-837F-AC51D08C5E60},,"1.31649",B,,Laubbaum,False,4,,bruchsal_baum,,2023/11/07,3470890.18,5442955.25,Platanus x acerifolia,,"0",20 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,09.05.2003 00:00:00,1,Platane,Platanus x acerifolia,0.16,3.9,4.5,"4 qm, Rigole, Kopfbaum"
+165,{8F6F2340-FAA0-4C6F-A5E9-67D40758833F},,"1.31650",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470886.64,5442952.08,Platanus x acerifolia,,"0",20 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,09.05.2003 00:00:00,1,Platane,Platanus x acerifolia,0.16,3.9,4.3,"4 qm, Rigole, Kopfbaum"
+166,{15EC612C-3CBB-4536-8689-26E46BECB763},,"1.31651",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470883.03,5442948.87,Platanus x acerifolia,,"0",20 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,09.05.2003 00:00:00,1,Platane,Platanus x acerifolia,0.16,3.9,4,"4 qm, Rigole, Kopfbaum"
+167,{7A205503-7E1D-48F0-98F9-32D9BD90D894},,"1.31661",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,0,0,TILIA CORDATA,Greenspire,"0",30 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,08.12.1993 00:00:00,1,Winterlinde,Tilia cordata,0.25,8,13.9,"4 qm,  Rabatte mit Zierpflanzen"
+168,{A06D938E-D12B-4E9B-8792-620B5216A69A},1.007117-,"1.007117",B,,Laubbaum,False,3,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"3",9 Jahre,1/001/008,Bürgerpark,11.08.2014 00:00:00,1,Hainbuche,Carpinus betulus,0.06,1.7,2.1,2 Hauptstämme a 0.06 m
+169,{FEF820A3-8229-494A-B775-DEBAF76CB27E},1:007118-,"1.007118",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"3",9 Jahre,1/001/008,Bürgerpark,11.08.2014 00:00:00,1,Hainbuche,Carpinus betulus,0.09,6,6.3,4 Hauptstämme a 0.09 m
+170,{D379139B-200A-480D-AFAD-FFE066482850},,"1.01207",B,,Laubbaum,False,2,,bruchsal_baum,,2024/01/24,0,0,Prunus serrulata,Kanzan,"1",4 Jahre,1/001/012,Stadtgrabenstraße,15.01.2024 00:00:00,1,Japanische Blütenkirsche,Prunus serrulata,0.2,6.8,5,
+171,{4BE5CB47-7F60-4F6E-9751-B3DE83FE6C2B},,"1.01208",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Prunus serrulata,Kanzan,"0",18 Jahre,1/001/012,Stadtgrabenstraße,20.12.2005 00:00:00,1,Japanische Blütenkirsche,Prunus serrulata,0.18,4.9,5.6,BHD geschätzt
+172,{F24F6800-8FE1-4DB3-9519-A353A1C6C304},,"1.01210",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/09,0,0,Prunus serrulata,Kanzan,"0",18 Jahre,1/001/012,Stadtgrabenstraße,20.12.2005 00:00:00,1,Japanische Blütenkirsche,Prunus serrulata,0.2,6.9,5.3,BHD geschätzt
+173,{C1FF9DF5-17A2-42F5-820C-48449A341577},,"1.01211",B,,Laubbaum,False,1.5,,bruchsal_baum,,2024/01/09,0,0,Prunus serrulata,Kanzan,"3",7 Jahre,1/001/012,Stadtgrabenstraße,21.03.2016 00:00:00,1,Japanische Blütenkirsche,Prunus serrulata,0.08,1.7,4.6,BHD und Krone geschätzt
+174,{A10B2AE3-6E07-4316-A02C-EAA50F8CD9F3},,"1.01212",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/09,0,0,Tilia spec.,,"0",43 Jahre,1/001/012,Stadtgrabenstraße,15.03.1980 00:00:00,1,Winterlinde,Tilia cordata,0.48,9,13.2,"6 qm, verdichteter Boden "
+175,{19EB8CB6-B7D2-4E12-B516-4E0201DAC3BA},,"1.01214",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/09,0,0,Liquidambar  styraciflua,Worplesdon,"3",17 Jahre,1/001/012,Stadtgrabenstraße,07.03.2006 00:00:00,1,Amerikanischer Amberbaum,Liquidamber styraciflua,0.2,5.4,10.5,"4 qm, Rigole"
+176,{AE277579-9D6F-4527-90CA-E797A83D917C},,"1.01215",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Liquidambar  styraciflua,Worplesdon,"3",17 Jahre,1/001/012,Stadtgrabenstraße,06.03.2006 00:00:00,1,Amerikanischer Amberbaum,Liquidambar  styraciflua,0.17,4.4,8.5,"4 qm, Rigole"
+192,{D290C289-8C9B-4AC3-BB4D-94A8BCA4646F},,"1.32303",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,TILIA CORDATA,Greenspire,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Winterlinde,Tilia cordata,0.19,6.5,8.2,"3 qm, bewachsen mit Kartoffelrose"
+193,{07EC7AB0-E0F4-44BC-A3D4-B6B4337FAA1B},,"1.51001",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,Fastigiata,"0",28 Jahre,1/001/167,Zwerchstraße,27.12.1994 00:00:00,1,Hainbuche,Carpinus betulus,0.27,5.7,10.7,"3 qm, Rigole mit Spontanbewuchs "
+194,{57D8289D-EF6C-49B6-B235-3A04C4EB5E20},,"1.51002",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,Fastigiata,"0",28 Jahre,1/001/167,Zwerchstraße,27.12.1994 00:00:00,1,Hainbuche,Carpinus betulus,0.31,6.3,11.8,"3 qm, Rigole"
+195,{C1D35079-8A2F-4970-AC73-EDBA40DDD06C},,"1.51003",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,Fastigiata,"0",29 Jahre,1/001/167,Zwerchstraße,27.12.1994 00:00:00,1,Hainbuche,Carpinus betulus,0.25,6.8,11.7,"3 qm, Rigole"
+196,{DB0D0922-075C-46AF-9C1C-DA106CEE0D82},,"1.51004",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,Fastigiata,"0",29 Jahre,1/001/167,Zwerchstraße,27.12.1994 00:00:00,1,Hainbuche,Carpinus betulus,0.3,7,12.9,"3 qm, Rigole mit Spontanbewuchs "
+197,{7DEE68F1-91C9-45F2-A819-3291242DD10F},,"1.32301",B,,Laubbaum,False,3,,bruchsal_baum,,2024/01/09,0,0,TILIA CORDATA,Greenspire,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Winterlinde,Tilia cordata,0.17,4,8.5,"3 qm, bewachsen mit Kartoffelrose"
+198,{088F1243-E9A5-43B4-96F1-1F0E4FD9E0FE},,"1.32302",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,TILIA CORDATA,Greenspire,"9",13 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010 00:00:00,1,Winterlinde,Tilia cordata,0.16,6,8.6,"3 qm, bewachsen mit Kartoffelrose"
+199,{B0753AC5-988F-4C34-A766-E63C2E3C3965},,"1.32304",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/09,0,0,TILIA CORDATA,Greenspire,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Winterlinde,Tilia cordata,0.16,5.7,7.7,"3 qm, bewachsen mit Kartoffelrose"
+200,{73F2E940-317F-40B2-BA52-58806F393425},,"1.32305",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Acer campestre,Green Top,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Feldahorn,Acer campestre,0.14,4.7,6.5,"3 qm,  verdichteter Boden "
+201,{FA121FD3-687C-45E5-BB86-F63D3A4FF5AE},,"1.32306",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Acer campestre,Green Top,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Feldahorn,Acer campestre,0.12,4.8,7,"3 qm, verdichteter Boden "
+202,{4C8FF7F9-B79C-4C12-9144-9D7DC17D9035},,"1.32307",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Hainbuche,Carpinus betulus,0.14,5.7,10.1,"5 an, Rigole aus Beton, 1.5 qm verdichteter Boden"
+203,{01312A64-213C-4621-9DCD-DB1C687A44EF},,"1.32308",B,,Laubbaum,False,2,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"1",4 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",12.04.2021 00:00:00,1,Hainbuche,Carpinus betulus,0.07,3,5.8,"5 qm, Betonrigole "
+204,{F1B7E832-0A20-4E7B-872C-14C38C62DD52},,"1.32319",B,,,False,1,,bruchsal_baum,,2024/02/21,0,0,Carpinus betulus,'Lucas',"1",1 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",15.03.2022 00:00:00,1,Hainbuche,Carpinus betulus,0.06,2,5.6,"5 qm, Betonrigole "
+205,{6F5B4CDC-37E1-4D48-AA0C-305D06D1BA4D},,"1.32310",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"9",12 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010 00:00:00,1,Hainbuche,Carpinus betulus,0.1,4,8,"5 qm, Betonrigole"
+206,{BB8CCF93-C961-4AA4-B031-D03533C6DAF8},,"1.32311",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"2",9 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",23.01.2013,1,Hainbuche,Carpinus betulus,0.11,5.5,8,"5 qm, Betonrigole"
+207,{F56F4397-FC9A-40D9-9EE8-7D8D4A3864ED},,"1.32312",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Hainbuche,Carpinus betulus,0.13,6,10.2,"5 qm,  Betonrigole"
+208,{A2031C4A-AEB0-4913-BCC6-35AE14A839B2},,"1.32313",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Hainbuche,Carpinus betulus,0.13,4.6,9.3,"5 qm, Betonrigole "
+209,{945F5FF4-8B65-402F-BC06-79C3282E8B3C},,"1.32314",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Hainbuche,Carpinus betulus,0.11,4.5,8.6,"5 qm, Betonrigole"
+210,{20A37A9E-2E2D-4B1D-AB2D-A57DC471A4E2},,"1.32315",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Hainbuche,Carpinus betulus,0.13,4.5,9.5,"4 qm, Betonrigole "
+211,{05BFAD63-6D14-475A-97AB-6DBFCC60503D},,"1.32316",B,,Laubbaum,False,3,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"9",13 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010 00:00:00,1,Hainbuche,Carpinus betulus,0.13,3.7,9.9,"4 qm, Betonrigole"
+212,{C6DCF1F7-DBAE-4652-AB76-BD9B4B231122},,"1.32317",B,,Laubbaum,False,3,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"9",13 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010 00:00:00,1,Hainbuche,Carpinus betulus,0.12,4.5,9.6,"4 qm, Betonrigole"
+213,{EAB6C546-734B-4105-9CAB-27DF9527AB71},,"1.32318",B,,Laubbaum,False,3,,bruchsal_baum,,2024/01/09,0,0,Carpinus betulus,Frans Fontaine,"9",11 Jahre,1/001/074,"John Bopp, Kegel, u. Rathaus Straße",04.11.2010,1,Hainbuche,Carpinus betulus,0.12,4.5,9.9,"4 qm, Betonrigole"
+214,{7F8F62C3-2A0C-4619-AF9C-C856CA20D6CF},,"1.00803",B,,Laubbaum,False,5,,bruchsal_baum,,2023/05/02,0,0,Celtis australis,,"3",9 Jahre,1/001/009,Kirchplatz,29.04.2014 00:00:00,1,Südlicher Zürgelbaum,Celtis australis,0.17,5.7,6.4,"5 qm, verdichtete Erde mit Spontanbewuchs"
+215,{A187E851-4DFB-440B-9547-D68580D11403},,"1.31307",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,0,0,ACER  platanoides,COLUMNARE  TYP LEY 3,"9",12 Jahre,1/001/065,Pfeilerstraße,28.04.2011 00:00:00,1,Spitzahorn,Acer platanoides,0.21,7,9.4,"4 qm, Betonrigole mit Kartoffelrose "
+216,{7F5358EE-0111-4038-8600-4FE3043AB3C7},,"1.31308",B,,Laubbaum,True,7,,bruchsal_baum,,2023/07/26,0,0,ACER  platanoides,COLUMNARE  TYP LEY 3,"9",12 Jahre,1/001/065,Pfeilerstraße,28.04.2011 00:00:00,1,Spitzahorn,Acer platanoides,0.21,8.5,9.3,"4 qm, Betonrigole mit Kartoffelrose "
+217,{E062F27A-F4E8-4962-9956-63AD75525A40},,"1.31309",B,,Laubbaum,False,4,,bruchsal_baum,,2023/07/26,0,0,ACER  platanoides,COLUMNARE  TYP LEY 3,"9",12 Jahre,1/001/065,Pfeilerstraße,28.04.2011 00:00:00,1,Spitzahorn,Acer platanoides,0.18,5.7,7.5,"4 qm,  Betonrigole mit Kartoffelrose "
+218,{344CD8DD-FAC3-4BA6-8201-252B776DB2DB},,"1.31310",B,,Laubbaum,False,3,,bruchsal_baum,,2023/07/26,0,0,ACER  platanoides,COLUMNARE  TYP LEY 1,"9",12 Jahre,1/001/065,Pfeilerstraße,06.05.2011 00:00:00,1,Spitzahorn,Acer platanoides,0.21,4.2,11.9,"6 qm, Kartoffelrose und Spontanbewuchs "
+219,{32E085AE-654F-456F-B1BE-2997937E8FB4},,"1.31311",B,,Laubbaum,False,2,,bruchsal_baum,,2023/07/26,0,0,ACER  platanoides,COLUMNARE  TYP LEY 1,"9",12 Jahre,1/001/065,Pfeilerstraße,06.05.2011 00:00:00,1,Spitzahorn,Acer platanoides,0.2,4.8,10.7,"4 qm, Betonrigole mit Kartoffelrose "
+220,{79E03C68-AB81-4C04-957F-C8290AD30D7F},,"1.50202",B,,Laubbaum,True,8,,bruchsal_baum,,2024/01/18,3470777.01,5443142.27,Carpinus betulus,,"0",22 Jahre,1/001/161,Am Alten Schloß,15.03.2000,1,Hainbuche,Carpinus betulus,0.2,7,8,"3 qm, mit Kartoffelrosen "
+221,{D208F06B-6853-4F35-98A8-2DA5CD170E4A},,"1.50203",B,,Laubbaum,True,4,,bruchsal_baum,,2024/01/18,3470784.95,5443142.53,Carpinus betulus,,"0",13 Jahre,1/001/161,Am Alten Schloß,13.04.2010 00:00:00,1,Hainbuche,Carpinus betulus,0.12,5.6,7.4,"3 qm, mit Kartoffelrosen "
+222,{045F9AF0-835D-4B0B-BFFF-EBA775A635A3},,"1.50211",B,,Laubbaum,True,2,,bruchsal_baum,,2024/01/18,3470781.77,5443148.35,Carpinus betulus,,"3",3 Jahre,1/001/161,Am Alten Schloß,23.03.2020 00:00:00,1,Hainbuche,Carpinus betulus,0.6,2.3,5.4,"3 qm, mit Kartoffelrosen "
+223,{A8C47AA5-AC7A-4938-BFE9-46A1D12526C3},,"1.50205",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470801.15,5443183.46,FRAXINUS ORNUS,MECZEK,"3",9 Jahre,1/001/161,Am Alten Schloß,15.03.2013,1,Blumen-Esche,Fraxinus ornus,0.17,5.2,5.4,"3 qm, Spontanbewuchs/ Bodendecker "
+224,{FAD8C080-B6CA-461F-9A30-638D72513B91},,"1.50206",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470805.16,5443189.67,FRAXINUS ORNUS,MECZEK,"3",9 Jahre,1/001/161,Am Alten Schloß,15.03.2013,1,Blumen-Esche,Fraxinus ornus,0.17,5,5,"3 qm, Spontanbewuchs/ Bodendecker "
+225,{C82F0B1A-9755-4542-8B18-62A46F34CD0A},,"1.50207",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470808.68,5443194.96,FRAXINUS ORNUS,MECZEK,"3",9 Jahre,1/001/161,Am Alten Schloß,15.03.2013,1,Blumen-Esche,Fraxinus ornus,0.19,5.1,5.3,"3 qm, Spontanbewuchs/ Bodendecker"
+226,{8EFC28A1-51FA-4064-9844-0617B902E85A},,"1.50208",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470811.96,5443200.13,FRAXINUS ORNUS,MECZEK,"3",9 Jahre,1/001/161,Am Alten Schloß,15.03.2013,1,Blumen-Esche,Fraxinus ornus,0.18,5.2,5.4,"3 qm, Spontanbewuchs/ Bodendecker"
+227,{B534CD4B-E5DB-4A54-B88F-A29859C1AEE4},,"1.50209",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470814.38,5443203.84,FRAXINUS ORNUS,MECZEK,"3",9 Jahre,1/001/161,Am Alten Schloß,15.03.2013,1,Blumen-Esche,Fraxinus ornus,0.18,5.3,5.4,"3 qm, Spontanbewuchs "
+228,{BB60D7D7-2419-4608-BFA9-F513F00482ED},,"1.50210",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,3470817.13,5443207.88,FRAXINUS ORNUS,MECZEK,"0",11 Jahre,1/001/161,Am Alten Schloß,15.03.2012 00:00:00,1,Blumen-Esche,Fraxinus ornus,0.19,5.8,5.6,"3 qm,  Spontanbewuchs"
+229,{7BE5B690-72CF-4FBE-984A-E8E4AEDE5727},,"1.00701",B,,Laubbaum,False,17,,bruchsal_baum,,2024/01/18,3470970.09,5443116.07,Platanus x acerifolia,,"0",62 Jahre,1/001/008,Bürgerpark,15.11.1960 00:00:00,1,Platane,Platanus x acerifolia,0.65,19,18.2,
+230,{BEC05AEC-EC81-4E54-B2C3-A4BAFD193BE7},,"1.00704",B,,Laubbaum,False,10,,bruchsal_baum,,2024/01/18,3470968.62,5443150.21,Platanus x acerifolia,,"0",63 Jahre,1/001/008,Bürgerpark,15.11.1960 00:00:00,1,Platane,Platanus x acerifolia,0.8,23,19.7,
+231,{8D6EC012-D2BD-4547-AC37-83A05DF9A1A2},,"1.00705",B,,Laubbaum,False,18,,bruchsal_baum,,2024/01/18,3470953.73,5443149.31,Platanus x acerifolia,,"0",63 Jahre,1/001/008,Bürgerpark,15.11.1960 00:00:00,1,Platane,Platanus x acerifolia,0.84,21,18.3,
+232,{A4AEEE67-F329-4A39-B6E9-C2B485C22B6B},,"1.00712",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470920.42,5443115.6,Celtis australis,,"0",10 Jahre,1/001/008,Bürgerpark,13.03.2012 00:00:00,1,Südlicher Zürgelbaum,Celtis australis,0.23,9.8,8.4,
+233,{DBB5ED69-F637-48F9-89C2-5A83F222AA7D},,"1.00718",B,,Laubbaum,False,18,,bruchsal_baum,,2024/01/18,3470955.3,5443115.18,Platanus x acerifolia,,"0",63 Jahre,1/001/008,Bürgerpark,15.11.1960 00:00:00,1,Platane,Platanus x acerifolia,0.94,26.1,18.2,
+234,{A20A3790-7A09-43CB-BDFA-334AD21D575A},,"1.00719",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470970.7,5443105.84,Platanus x acerifolia,,"0",62 Jahre,1/001/008,Bürgerpark,15.11.1960 00:00:00,1,Platane,Platanus x acerifolia,0.38,14.5,17.5,
+235,{AF685982-0EF0-4E34-B237-643F3764FAC0},,"1.00739",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470936.18,5443041.27,Gleditisia triacanthos,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Amerikanische Gleditschie,Gleditisia triacanthos,0.27,10,10,
+236,{6739AFAE-C34E-4F7C-BB61-1088F426B476},,"1.00738",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470937.55,5443035.22,Acer campestre,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+237,{0DBAD928-258A-4F1B-AEE6-0BAEE33B9A31},,"1.00741",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470923.66,5443025.03,Gleditisia triacanthos,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Amerikanische Gleditschie,Gleditisia triacanthos,0.3,11.8,13.5,
+238,{088E1851-93AD-419B-A262-224D9814FB4F},,"1.00745",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,3470933.38,5443007.74,Acer campestre,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Feldahorn,Acer campestre,0.25,5.6,11.5,
+239,{991C2732-79AE-49F2-8DEA-F34780089FBC},,"1.00746",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470937.35,5443008.67,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Spitzahorn,Acer platanoides,0.31,11.5,12.2,
+240,{9A66F274-031B-47EC-A023-C94FBF81C52A},,"1.00747",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470946.48,5443036.32,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+241,{25378E8D-DF13-4CC5-BA50-35C26E77961E},,"1.00748",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470945.95,5443042.4,Acer platanoides,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+242,{DCB013D2-E2D6-46A1-A2E9-E68D0005E6D6},,"1.00749",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,3470947.4,5443051,Carpinus betulus,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,,,,,,
+243,{A63A08C8-9753-4594-89FD-AFF01C905A68},,"1.00750",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,3470946.61,5443062.24,Carpinus betulus,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,,,,,,
+244,{E7644B89-A094-4A39-AACD-50AF034F11E6},,"1.00751",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,3470946.08,5443072.43,Acer platanoides,,"0",-7976 Jahre,1/001/008,Bürgerpark,12.11.9999 00:00:00,1,,,,,,
+245,{41F46818-5E95-41C1-A103-CA7E8FDC54AF},,"1.00754",B,,Laubbaum,False,16,,bruchsal_baum,,2023/05/09,3470910.62,5443003.1,Sophora japonica,,"0",28 Jahre,1/001/008,Bürgerpark,21.03.1995 00:00:00,1,Japanischer Schnurbaum,Sophora japonica,0.39,12,14.3,
+246,{6750C723-EC4D-455D-9A4C-36CAFE129274},,"1.00755",B,,Laubbaum,False,13,,bruchsal_baum,,2024/01/18,3470915.6,5443012.81,Sophora japonica,,"0",28 Jahre,1/001/008,Bürgerpark,21.03.1995 00:00:00,1,Japanischer Schnurbaum,Sophora japonica,0.63,15,14,
+247,{B0765E81-B070-48B3-9B51-8F4F0C2E608A},,"1.00756",B,,Laubbaum,False,11,,bruchsal_baum,,2024/01/18,3470901.13,5443016.21,Sophora japonica,,"0",27 Jahre,1/001/008,Bürgerpark,21.03.1995,1,Japanischer Schnurbaum,Sophora japonica,0.4,19,11.4,
+248,{3514CCC9-7DF3-42DD-BA3D-EF61EB83C2B0},,"1.00758",B,,Laubbaum,False,10,,bruchsal_baum,,2024/01/18,3470919.65,5443060.3,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.3,11.5,16.1,
+249,{94595E84-51B4-4C66-AF65-635A3E57919F},,"1.00763",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470907.19,5443063.37,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.31,12.5,15.6,
+250,{3DDB55BB-8F10-4E72-A069-9BD21149EF23},,"1.00764",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470911.59,5443066.18,Tilia spec.,,"0",32 Jahre,1/001/008,Bürgerpark,12.11.1991 00:00:00,1,Winterlinde,Tilia cordata,0.36,3.5,17.5,
+251,{8A2C39BE-1B9F-49F4-ACFE-2B86445A4AA3},,"1.00765",B,,Laubbaum,False,11,,bruchsal_baum,,2024/01/18,3470916.42,5443066.02,Tilia spec.,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Winterlinde,Tilia cordata,0.37,11,16.9,
+252,{F53F11E3-B5C3-41DD-9105-587E59BA1710},,"1.00769",B,,Laubbaum,False,9,,bruchsal_baum,,2023/03/30,3470876.81,5443049.56,Sophora japonica,,"0",12 Jahre,1/001/008,Bürgerpark,15.03.2011 00:00:00,1,Japanischer Schnurbaum,Sophora japonica,0.26,11.3,7.9,
+253,{158F497C-186B-4F67-A59F-96E9C4842CF1},,"1.007101",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,3470873.46,5443178.41,Acer pseudoplatanus,,"0",30 Jahre,1/001/008,Bürgerpark,12.11.1991,1,Bergahorn,Acer pseudoplatanus,0.33,10.7,10.1,2 Stämme a ca.  0.33 m
+258,{63649193-28F9-404C-98C4-65836800AC77},,"1.31001",B,,Laubbaum,False,14,,bruchsal_baum,,2024/01/18,3470628.43,5442854.85,Aesculus hippocastanum,,"0",112 Jahre,1/001/062,Verbindungsweg Neutor-/Stadtgr.Str,01.01.1911 00:00:00,1,Gewöhnliche Rosskastanie,Aesculus hippocastanum,0.7,13,11.7,BHD geschätzt
+259,{46EB5359-939F-4D73-84CC-D87C084076D2},,"1.25801",B,,Laubbaum,False,4,,bruchsal_baum,,2023/12/21,0,0,Acer platanoides,Globosum,"0",43 Jahre,1/001/046,Rathaus am Otto Oppenheimer Platz,15.11.1980 00:00:00,1,Spitzahorn,Acer platanoides,0.16,3,3.5,"3 qm,  Kies"
+260,{3F8C9C99-2A17-414B-B46D-077AA5E1187B},,"1.007116",B,,Nadelbaum,False,1,,bruchsal_baum,,2024/01/18,0,0,Ginkgo biloba,,"3",9 Jahre,1/001/008,Bürgerpark,24.05.2013,1,Ginkgo,Ginkgo biloba,0.09,1.5,3.7,
+261,{FED4D38B-3F5E-4DDB-AC4B-52A55D24904D},,"1.25802",B,,Laubbaum,False,2,,bruchsal_baum,,2023/12/21,0,0,Arbutus unedo,,"3",6 Jahre,1/001/046,Rathaus am Otto Oppenheimer Platz,15.05.2017 00:00:00,1,,,,,,BHD < 0.05 m
+262,{5C19BE46-65B5-4404-B4BC-BF28042808F5},,"1.007111",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,0,0,Acer campestre,Elsrijk,"3",9 Jahre,1/001/008,Bürgerpark,14.01.2013 00:00:00,1,,,,,,
+263,{365B152C-1E6B-48B0-9B78-A008230F51E5},,"1.007112",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,0,0,Acer campestre,Elsrijk,"3",9 Jahre,1/001/008,Bürgerpark,14.01.2013 00:00:00,1,,,,,,
+264,{BDED35AA-60BB-449B-BC96-E378127E8AC5},,"1.007113",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,0,0,Acer campestre,Elsrijk,"3",9 Jahre,1/001/008,Bürgerpark,14.01.2013 00:00:00,1,,,,,,
+265,{564E2B8C-F8D6-48EF-99F9-80B5B9F72432},,"1.007114",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,0,0,Acer campestre,Elsrijk,"3",9 Jahre,1/001/008,Bürgerpark,14.01.2013 00:00:00,1,,,,,,
+266,{340615EA-EC85-4196-BA5F-929DB190D7CD},,"1.007115",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",23 Jahre,1/001/008,Bürgerpark,15.11.2000 00:00:00,1,Hainbuche,Carpinus betulus,0.18,7,10.8,
+267,{91940e7c-a60b-4740-bb32-5fc6da81ea7c},,"1.007120",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,0,0,Malus floribunda,,"0",36 Jahre,1/001/008,Bürgerpark,15.11.1985,1,Japanischer Wildapfel,Malus floribunda,0.15,9,4.4,15 Stämme a 0.15 m
+268,{f15c2fea-a742-424c-825e-59ed7370286a},,"1.007121",B,,Laubbaum,False,3,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",38 Jahre,1/001/008,Bürgerpark,15.11.1985 00:00:00,1,Hainbuche,Carpinus betulus,0.08,3.3,5.5,2 Stämme a 0.08
+269,{BD32CF92-9960-4DE7-8E9C-647B3A09D53E},,"1.007122",B,,Laubbaum,False,3,,bruchsal_baum,,2024/01/18,0,0,Malus toringo,`Brower`s Beauty `,"3",5 Jahre,1/001/008,Bürgerpark,06.03.2018 00:00:00,1,Kleinfruchtiger Zierapfel,Malus toringo,0.06,4,3,
+270,{DABA00E0-9191-45F3-BA50-8AA96949600C},,"1.007126",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,0,0,Malus floribunda,,"0",38 Jahre,1/001/008,Bürgerpark,15.11.1985 00:00:00,1,,,,,,Gefällt? Nicht vorhanden 
+271,{86308D07-F3E3-4156-89AF-161F06329D0F},,"1.007127",B,,Laubbaum,False,4,,bruchsal_baum,,2024/01/18,0,0,Cornus controversa,,"0",38 Jahre,1/001/008,Bürgerpark,15.11.1985 00:00:00,1,Pagoden-Hartriegel,Cornus controversa,0.07,5.5,4.6,5 Stämme a 0.07 m
+272,{B5FF4856-7CAD-40CF-9DBE-60A451991F3A},,"1.007128",B,,Laubbaum,False,10,,bruchsal_baum,,2024/01/18,0,0,Acer campestre,,"0",36 Jahre,1/001/008,Bürgerpark,15.11.1985,1,,,,,,
+273,{5405E171-610A-4BA6-B0D9-931D38F5275C},,"1.007129",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",38 Jahre,1/001/008,Bürgerpark,15.11.1985 00:00:00,1,,,,,,
+274,{2D2415D5-4CC5-4460-B585-6476D03473E3},,"1.007130",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,0,0,Acer campestre,,"0",36 Jahre,1/001/008,Bürgerpark,15.11.1985,1,,,,,,
+275,{7D0A719A-F4DA-42F5-BC2E-8F0B6C110709},,"1.007131",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",37 Jahre,1/001/008,Bürgerpark,15.11.1985 00:00:00,1,Hainbuche,Carpinus betulus,0.3,7,7.4,
+276,{FFED76AE-2ECE-46D5-B78C-B85AE351D6E6},,"1.007132",B,,Laubbaum,False,9,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",36 Jahre,1/001/008,Bürgerpark,15.11.1985,1,,,,,,
+277,{41E4C97D-763A-41D2-9A35-0DAA172FCE4B},,"1.007133",B,,Laubbaum,False,11,,bruchsal_baum,,2024/01/18,0,0,Prunus cerasifera,,"0",38 Jahre,1/001/008,Bürgerpark,15.11.1985 00:00:00,1,,,,,,
+278,{D6AFEB96-6CBE-433C-BDB2-1C88FAB11752},,"1.007134",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,Fastigiata,"0",36 Jahre,1/001/008,Bürgerpark,15.11.1985,1,Hainbuche,Carpinus betulus,0.24,8,9.5,
+279,{1196751f-8b52-4eac-8af6-cf9669070559},,"1.31312",B,,Nadelbaum,False,8,,bruchsal_baum,,2024/01/18,0,0,Taxus baccata,,"0",,1/001/065,Pfeilerstraße,,1,Europäische Eibe,Taxus baccata,0.13,5,6.9,4 Stämme a ca.  0.13
+280,{ceda4c7b-a38f-49f1-b20c-457467644dda},,"1.007137",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",,1/001/008,Bürgerpark,,1,Hainbuche,Carpinus betulus,0.35,11.9,8.2,BHD geschätzt 
+281,{d235aa31-1c80-4c1f-ae91-cf12d6614a6e},,"1.007136",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",,1/001/008,Bürgerpark,,1,Hainbuche,Carpinus betulus,0.3,10,12.3,BHD geschätzt 
+282,{8970d2f1-a60a-45e5-acd7-d301a01cdcc3},,"1.007144",B,,Laubbaum,False,4,,bruchsal_baum,,2023/05/12,0,0,Carpinus betulus,,"0",,1/001/008,Bürgerpark,,1,,,,,,
+283,{b36b7ff8-abec-434f-8a85-e4cbf64096eb},,"1.007143",B,,Laubbaum,False,6,,bruchsal_baum,,2023/05/12,0,0,Carpinus betulus,,"0",,1/001/008,Bürgerpark,,1,,,,,,
+284,{429c3bdc-c9b4-4eb1-a5e3-dc58cbe6d0ad},,"1.007139",B,,Laubbaum,False,5,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",,1/001/008,Bürgerpark,,1,,,,,,
+285,{580f4c91-14dd-42fa-8d00-49093d600c32},,"1.007140",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",,1/001/008,Bürgerpark,,1,,,,,,
+286,{6c9475a2-3d9d-4aa6-9970-0332dde85861},,"1.007001",BG,,,False,4,,bruchsal_baum,,2023/05/26,0,0,,,"0",,,,,1,,,,,,
+287,{a8288e2a-4ff7-4f93-ab5a-f55fe19b1c89},,"1.007138",B,,Laubbaum,False,8,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,"0",,1/001/008,Bürgerpark,,1,,,,,,
+288,{1cae1555-79a8-4c0b-a1d5-a00d9e029b04},,"1.007142",B,,Laubbaum,False,4,,bruchsal_baum,,2023/04/21,0,0,Carpinus betulus,,"0",,1/001/008,Bürgerpark,,1,,,,,,
+289,{6643e257-8a4d-464d-813e-403c7fc7d912},,"1.007141",B,,Laubbaum,False,6,,bruchsal_baum,,2024/01/18,0,0,Acer platanoides,,"0",,1/001/008,Bürgerpark,,1,,,,,,
+290,{7DF91E79-E380-4271-A6E4-4E9C1FB71840},,"1.31662",B,,Laubbaum,False,2,bruchsal_baum,bruchsal_baum,2020/04/21,2023/09/12,0,0,FRAXINUS ORNUS,MECZEK,"3",3 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,20.04.2020 00:00:00,1,Blumen-Esche,Fraxinus ornus,0.07,2.4,4,"3 qm, Rigole mit Stammgitter "
+291,{33216A3F-8780-4ACE-8A83-6A2764634252},,"1.31663",B,,Laubbaum,False,2,bruchsal_baum,bruchsal_baum,2020/04/21,2023/09/12,0,0,FRAXINUS ORNUS,MECZEK,"3",3 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,20.04.2020 00:00:00,1,Blumen-Esche,Fraxinus ornus,0.07,2.2,3.7,"3 qm, Rigole mit Stammgitter "
+292,{203A24DF-90A9-44AB-A9D6-A162B513E131},,"1.31664",B,,Laubbaum,False,2,bruchsal_baum,bruchsal_baum,2020/04/21,2023/09/12,0,0,FRAXINUS ORNUS,MECZEK,"3",3 Jahre,1/001/068,Fußgängerzone mit Schönbornplatz,20.04.2020 00:00:00,1,Blumen-Esche,Fraxinus ornus,0.08,2,3.8,"3 qm, Rigole mit Stammgitter "
+293,{99c9eb8b-255a-418a-b3ef-3edb2586c598},,"1.007145",B,,Laubbaum,False,3,,bruchsal_baum,,2023/05/12,0,0,Acer spec.,,"0",22 Jahre,1/001/008,Bürgerpark,07.02.2001 00:00:00,1,,,,,,
+294,{9bdf03d1-4734-4b03-91a7-9237ee80d7b7},,"1.007146",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,0,0,Carpinus betulus,,,,,,,1,,,,,,
+295,{6609d54b-47fa-4f20-9fe5-c97944b71d74},,"1.007147",B,,Nadelbaum,False,6,,bruchsal_baum,,2024/01/29,0,0,Taxus baccata,,,16 Jahre,1/001/008,Bürgerpark,31.12.2007 00:00:00,1,,,,,,
+296,{7b626ecf-c007-4ab0-87d2-6d50bb59a81e},,"1.007149",B,,Nadelbaum,False,3,,bruchsal_baum,,2024/01/29,0,0,Taxus baccata,,,,1/001/008,Bürgerpark,,1,,,,,,
+297,{dcc708c1-164b-4a4e-b818-8e48705f7df2},,"1.00777148",B,,Nadelbaum,False,2,,bruchsal_baum,,2024/01/18,0,0,Taxus baccata,,,,,,,1,,,,,,
+298,{367daddc-49cf-4d77-afd1-20e8dd2eb767},,"1.0077777150",B,,,False,6,,bruchsal_baum,,2024/01/18,0,0,Nyssa sylvatica,,,,1/001/008,Bürgerpark,,1,,,,,,"Nicht vorhanden, stattdessen steht dort eine Perus salicifonie"
+299,{076b80eb-00da-4d95-9c13-764f65131e06},,"1.00777777151",B,,Laubbaum,False,2,,bruchsal_baum,,2024/01/18,0,0,Malus domestica,Rheinischer Bohnapfel,,0 Jahre,1/001/008,Bürgerpark,30.03.2023 00:00:00,1,Rheinischer Bohnapfel,Malus domestica,0.05,1.7,4,
+300,{3d02d448-5d10-419e-bdc1-ee77ad749227},,"1.007152",B,,Laubbaum,False,7,,bruchsal_baum,,2024/01/18,0,0,Acer platanoides,,,23 Jahre,1/001/008,Bürgerpark,02.02.2000 00:00:00,1,,,,,,
+301,{DCBC6FF8-F5DB-4BA5-B328-6BA6FEFBA6F2},,"1.007153",B,,Laubbaum,False,2,bruchsal_baum,bruchsal_baum,2024/01/16,2024/01/24,0,0,Alnus x spaethii,,"1",4 Jahre,1/001/008,Bürgerpark,15.01.2024 00:00:00,1,,,,,,
+302,,,,,,,,,,,,,,,,,,,,,,,Spitzahorn,Acer platanoides,0.28,7.5,8,
+303,,,,,,,,,,,,,,,,,,,,,,,Birke,Betula spec.,0.25,6,10.2,Hängebirke?
+304,,,,,,,,,,,,,,,,,,,,,,,Birke,Betula spec.,0.27,6,9.7,Hängebirke?
+305,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.23,4,11,Starker Bewuchs mit Efeu
+306,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.08,6,6.2,"4 Stämme a ca.  0.08, Hartriegel spec. "
+307,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.08,6.3,5.6,"7 Hauptstämme a ca. 0.08, Hartriegel spec."
+308,,,,,,,,,,,,,,,,,,,,,,,Spitzahorn,Acer platanoides,0.3,9,13.4,BHD geschätzt 
+309,,,,,,,,,,,,,,,,,,,,,,,Nadelgehölz,Coniferales,0.4,8.5,17,BHD geschätzt 
+310,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gefällt? Nicht vorhanden 
+311,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gefällt? Nicht vorhanden 
+312,,,,,,,,,,,,,,,,,,,,,,,Abendländischer Lebensbaum,Thuja occidentalis,0.17,3,7.1,
+313,,,,,,,,,,,,,,,,,,,,,,,Spitzahorn,Acer platanoides,0.16,5,8.8,"BHD, Krone und Höhe geschätzt"
+314,,,,,,,,,,,,,,,,,,,,,,,Echte Zypresse,Cupressus sempervirens,,3,10,BHD n.a.
+315,,,,,,,,,,,,,,,,,,,,,,,,,,,,nicht zugänglich
+316,,,,,,,,,,,,,,,,,,,,,,,,,,,,nicht zugänglich
+317,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.31,8,12.3,Innenhof
+318,,,,,,,,,,,,,,,,,,,,,,,Bergahorn,Acer pseudoplatanus,0.39,9.5,11.5,Innenhof
+319,,,,,,,,,,,,,,,,,,,,,,,Robinie,Robinia pseudoacacia,,12,11.7,"BHD nicht messbar, Krone geschätzt "
+320,,,,,,,,,,,,,,,,,,,,,,,Traubenkirsche,Prunus spec.,,7,8.1,"BHD nicht messbar, starker Efeubewuchs"
+321,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.3,5,15.9,BHD geschätzt
+322,,,,,,,,,,,,,,,,,,,,,,,Eibe,Taxus spec.,,6,8.6,"BHD nicht messbar, vielleicht Eibe?"
+323,,,,,,,,,,,,,,,,,,,,,,,Lawson-Scheinzypresse,Chamaecyparis lawsoniana,0.25,3.9,11.4,BHD geschätzt 
+324,,,,,,,,,,,,,,,,,,,,,,,Bergahorn,Acer pseudoplatanus,0.14,5,10.4,Krone geschätzt
+325,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.35,6,10,BHD und Krone geschätzt 
+326,,,,,,,,,,,,,,,,,,,,,,,,,,,,stehendes Totholz mit Efeu
+327,,,,,,,,,,,,,,,,,,,,,,,Hainbuche,Carpinus betulus,0.11,3.8,7,"4 qm, Rindenmulch "
+328,,,,,,,,,,,,,,,,,,,,,,,Hainbuche,Carpinus betulus,0.11,3.2,6.2,"4 qm, Bank über Baumscheibe "
+329,,,,,,,,,,,,,,,,,,,,,,,Abendländischer Lebensbaum,Thuja occidentalis,0.11,2,7.1,"0.5 qm,  Kies"
+330,,,,,,,,,,,,,,,,,,,,,,,Abendländischer Lebensbaum,Thuja occidentalis,0.1,1.8,5.3,"0.5 qm, Kies"
+331,,,,,,,,,,,,,,,,,,,,,,,Echte Zypresse,Cupressus sempervirens,0.14,1.8,8.3,In Beet 
+332,,,,,,,,,,,,,,,,,,,,,,,Echte Zypresse,Cupressus sempervirens,0.14,1.8,6.9,Im Beet
+333,,,,,,,,,,,,,,,,,,,,,,,Echte Zypresse,Cupressus sempervirens,0.13,1.5,6,In Beet
+334,,,,,,,,,,,,,,,,,,,,,,,Europäische Eibe,Taxus baccata,0.14,3.8,6.2,2 Stämme a ca. 0.14
+335,,,,,,,,,,,,,,,,,,,,,,,Felsenbirne,Amelanchier spec.,0.07,3,6.9,"5 Stämme a ca. 0.07 m, Kupfer-Felsenbirne? Canadische Felsenbirne?"
+336,,,,,,,,,,,,,,,,,,,,,,,Felsenbirne,Amelanchier spec.,0.08,4,7.3,"6 Stämme a ca. 0,08 m"
+337,,,,,,,,,,,,,,,,,,,,,,,Amerikanischer Amberbaum,Liquidamber styraciflua,0.08,1,5.6,
+338,,,,,,,,,,,,,,,,,,,,,,,Amerikanischer Amberbaum,Liquidamber styraciflua,0.06,1,4.1,
+339,,,,,,,,,,,,,,,,,,,,,,,Felsenbirne,Amelanchier spec.,0.09,4.9,5.7,"5 Stämme a ca.  0.09 m,  Kanadische Felsenbirne "
+340,,,,,,,,,,,,,,,,,,,,,,,Drüsiger Götterbaum,Ailanthus altissima,0.18,6.5,7.8,"Keine Baumscheibe, wächst Richtung Garten "
+341,,,,,,,,,,,,,,,,,,,,,,,Stieleiche,Quercus robur,0.2,8,7.2,
+342,,,,,,,,,,,,,,,,,,,,,,,Gewöhnlicher Flieder,Syringa vulgaris,0.06,3,4,3 Stämme a ca. 0.06 m 
+343,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.28,7,11.8,"BHD geschätzt, Stark bewachsen mit Efeu"
+344,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.28,5,14,"BHD gemessen, starker Bewuchs mit Efeu"
+345,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.4,5,13.8,"BHD geschätzt, starker Bewuchs mit Efeu"
+346,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.23,4,11,Starker Bewuchs mit Efeu
+347,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.31,7,14,Starker Bewuchs mit Efeu
+348,,,,,,,,,,,,,,,,,,,,,,,Eibe,Taxus spec.,0.23,4,5.3,Welche Eibe? BHD geschätzt
+349,,,,,,,,,,,,,,,,,,,,,,,Spitzahorn,Acer platanoides,0.38,12,13.2,BHD geschätzt 
+350,,,,,,,,,,,,,,,,,,,,,,,Kirschlorbeer,Prunus laurocerasus,0.08,2.5,2.6,3 Hauptstämme a 0.08 m
+351,,,,,,,,,,,,,,,,,,,,,,,Süßkirsche,Prunus avium,0.2,7.5,9.3,BHD geschätzt 
+352,,,,,,,,,,,,,,,,,,,,,,,Süßkirsche,Prunus avium,0.18,6.8,10.3,BHD geschätzt 
+353,,,,,,,,,,,,,,,,,,,,,,,,,,,,BHD < 0.05 m
+354,,,,,,,,,,,,,,,,,,,,,,,Eibe,Taxus spec.,0.3,4,6.4,Fortunes Kopfeibe?
+355,,,,,,,,,,,,,,,,,,,,,,,Portugiesische Kirschlorbeer,Prunus lusitanica,0.08,3,4.2,
+356,,,,,,,,,,,,,,,,,,,,,,,Bergahorn,Acer pseudoplatanus,0.09,6.5,7,"2 Stämme a ca. 0.09 m,  Krone geschätzt"
+357,,,,,,,,,,,,,,,,,,,,,,,Pflaume,Prunus domestica,0.09,4.2,3.7,Pflaume
+358,,,,,,,,,,,,,,,,,,,,,,,Pflaume,Prunus domestica,0.06,2,3.5,
+359,,,,,,,,,,,,,,,,,,,,,,,Holzapfel,Malus sylvestris,0.1,3.7,4.9,"2 Stämme a ca. 0.1 m, Apfel"
+360,,,,,,,,,,,,,,,,,,,,,,,Aprikose,Prunus armeniaca,0.07,3.5,4.3,2 Stämme a ca. 0.07 m
+361,,,,,,,,,,,,,,,,,,,,,,,Echte Feige,Ficus carica,0.15,8,4.5,BHD geschätzt
+362,,,,,,,,,,,,,,,,,,,,,,,Bergahorn,Acer pseudoplatanus,0.19,5,10.9,Krone geschätzt
+363,,,,,,,,,,,,,,,,,,,,,,,Bergahorn,Acer pseudoplatanus,0.16,5,12,Krone geschätzt
+364,,,,,,,,,,,,,,,,,,,,,,,Bergahorn,Acer pseudoplatanus,0.08,4,7,Krone geschätzt
+365,,,,,,,,,,,,,,,,,,,,,,,Gemeine Hasel,Corylus avellana,0.06,6,3.4,5 Stämme mit ca. 0.06 m 
+366,,,,,,,,,,,,,,,,,,,,,,,Japanische Blütenkirsche,Prunus serrulata,0.07,1.5,4.4,
+367,,,,,,,,,,,,,,,,,,,,,,,Steinweichsel,Prunus mahaleb,0.13,8.3,6,2 Stämme a 0.13 m
+368,,,,,,,,,,,,,,,,,,,,,,,Echte Feige,Ficus carica,0.1,4.5,4.1,8 Stämme a 0.1m
+369,,,,,,,,,,,,,,,,,,,,,,,Quitte,Cydonia oblonga,0.06,3,3.9,2 Hauptstämme a 0.06 m 
+370,,,,,,,,,,,,,,,,,,,,,,,Kornelkirsche,Cornus mas,0.09,3.8,4.5,Hartriegel? Apfel?
+371,,,,,,,,,,,,,,,,,,,,,,,Gemeine Hasel,Corylus avellana,0.07,3.7,6,"3 Hauptstämme a ca. 0.07 cm, BHD geschätzt"
+372,,,,,,,,,,,,,,,,,,,,,,,Eibe,Taxus spec.,0.2,3.5,4.6,"BHD, Krone und Höhe geschätzt"
+373,,,,,,,,,,,,,,,,,,,,,,,,,,,,nicht zugänglich
+374,,,,,,,,,,,,,,,,,,,,,,,,,,,,nicht zugänglich
+375,,,,,,,,,,,,,,,,,,,,,,,Hängebirke,Betula pendula,0.3,5.5,7.5,BHD und Krone geschätzt 
+376,,,,,,,,,,,,,,,,,,,,,,,n.a.,Prunus spec.,0.25,6.5,7.8,"Art nicht genau bestimmbar, BHD und Krone geschätzt "
+377,,,,,,,,,,,,,,,,,,,,,,,Schwarzkiefer,Pinus nigra ssp. Nigra,0.12,4,4.4,"Kiefer,  pinus spec?"
+378,,,,,,,,,,,,,,,,,,,,,,,Schwarzkiefer,Pinus nigra ssp. Nigra,0.1,2.6,3.7,"Kiefer, Pinus spec.?"
+379,,,,,,,,,,,,,,,,,,,,,,,Schwarzkiefer,Pinus nigra ssp. Nigra,0.06,2.5,4.2,"2 Stämme a 0.06 m,  Kiefer, Pinus spec."
+380,,,,,,,,,,,,,,,,,,,,,,,Schwarzkiefer,Pinus nigra ssp. Nigra,0.06,2.7,3.8,"2 Stämme a 0.06 m, Kiefer, Pinus spec"
+381,,,,,,,,,,,,,,,,,,,,,,,Kornelkirsche,Cornus mas,0.09,5,4.9,3 Stämme a 0.09 m
+382,,,,,,,,,,,,,,,,,,,,,,,Felsenbirne,Amelanchier spec.,0.07,1.9,2.8,
+383,,,,,,,,,,,,,,,,,,,,,,,Kornelkirsche,Cornus mas,0.07,6.5,5.1,4 Stämme a 0.07
+384,,,,,,,,,,,,,,,,,,,,,,,Kornelkirsche,Cornus mas,0.13,5,4.5,2 Stämme a 0.13
+385,,,,,,,,,,,,,,,,,,,,,,,Felsenbirne,Amelanchier spec.,0.07,2.9,3.1,2 Stämme a 0.07 m
+386,,,,,,,,,,,,,,,,,,,,,,,Weidenblättrige Birne,Perus salicifonia,0.22,5.5,5.5,
+387,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.07,6,3.5,4 Stämme a 0.07 m
+388,,,,,,,,,,,,,,,,,,,,,,,Dreispitzahorn,Acer buergerianum,0.18,7.5,7.8,2 Stämme a ca. 0.18 m
+389,,,,,,,,,,,,,,,,,,,,,,,Dreispitzahorn,Acer buergerianum,0.13,4.5,6,
+390,,,,,,,,,,,,,,,,,,,,,,,Dreispitzahorn,Acer buergerianum,0.12,5.8,7,2 Stämme a ca. 0.12
+391,,,,,,,,,,,,,,,,,,,,,,,Felsenbirne,Amelanchier spec.,0.06,5,4.2,5 Hauptstämme a ca. 0.06
+392,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.06,4.2,2.8,"1 Haptstamm, Hartriegel spec."
+393,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.08,4,3.2,"1 Hauptstamm, Hartriegel spec. "
+394,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.09,4,6.1,"3 Stämme a 0.09 m, Hartriegel spec."
+395,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.08,3.4,5.6,"3 Stämme a ca. 0.08, Hartriegel spec."
+396,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.08,5.8,5.3,"3 Stämme a ca. 0.08 m, Hartriegel spec. "
+397,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.07,5.8,6.1,"3 Stämme a ca. 0.07, Hartriegel spec."
+398,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.08,5,5.8,"2 Hauptstämme a ca. 0.08, Hartriegel spec. "
+399,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.11,4.5,6.4,"2 Stämme a ca. 0.11, Hartriegel spec. "
+400,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.08,5.8,4.3,"4 Stämme a ca. 0.08, Hartriegel spec. "
+401,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.08,4.3,6,"3 Stämme a ca.  0.08, Hartriegel spec. "
+402,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.05,4.2,6,"10 Stämme a ca. 0.05, Hartriegel spec."
+403,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.09,6.1,5.1,"2 Stämme a ca. 0.09, Hartriegel spec. "
+404,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.07,4,4.7,"2 Stämme a ca. 0.07, Hartriegel spec. "
+405,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.07,6.6,4.2,"BHD geschätzt, 4 Stämme a ca. 0.07, Hartriegel spec., "
+406,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.07,6.2,4.4,"5 Stämme a ca. 0.07, Hartriegel spec."
+407,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.07,5.2,6.1,"8 Stämme a ca. 0.07,  Hartriegel spec. "
+408,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.11,4,6,"2 Stämme a ca. 0.11, Hartriegel spec."
+409,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.05,5,3.8,"4 Stämme a ca. 0.05, Hartriegel spec."
+410,,,,,,,,,,,,,,,,,,,,,,,Hartriegel,Cornus spec.,0.06,4,4.3,2 Stämme a ca. 0.06
+411,,,,,,,,,,,,,,,,,,,,,,,Gewöhnlicher Liguster,Ligustrum vulgare,0.06,3.5,4.3,2 Stämme a ca. 0.06
+412,,,,,,,,,,,,,,,,,,,,,,,Baumliguster,Ligustrum lucidly,0.06,3.3,4.1,6 Stämme a ca. 0.06
+413,,,,,,,,,,,,,,,,,,,,,,,Kornelkirsche,Cornus mas,0.06,5.9,4.1,4 Stämme a ca. 0.06
+414,,,,,,,,,,,,,,,,,,,,,,,Baumliguster,Ligustrum lucidly,0.08,4,4.8,1 Hauptstamm
+415,,,,,,,,,,,,,,,,,,,,,,,Rote Heckenkirsche,Lonicera xylosteum,0.07,6.5,4,"7 Stämma a ca. 0.07, Krone geschätzt"
+416,,,,,,,,,,,,,,,,,,,,,,,Baumliguster,Ligustrum lucidly,0.09,6.2,5.2,"6 Stämme a ca. 0.09, BHD geschätzt "
+417,,,,,,,,,,,,,,,,,,,,,,,Baumliguster,Ligustrum lucidly,0.11,7.1,7.6,"7 Stämma a ca. 0.11, BHD geschätzt "
+418,,,,,,,,,,,,,,,,,,,,,,,Kirschpflaume,Prunus cerasifera,0.06,4.5,4.4,4 Hauptstämme a ca. 0.06
+419,,,,,,,,,,,,,,,,,,,,,,,Eibe,Taxus spec.,0.07,2.8,4.5,
+420,,,,,,,,,,,,,,,,,,,,,,,Kleinfruchtiger Zierapfel,Malus toringo,0.07,4,3,"Auf Gründach: 2 Stämme a ca. 0.07,"
+421,,,,,,,,,,,,,,,,,,,,,,,Felsenbirne,Amelanchier spec.,0.06,3.5,3.3,Auf Gründach: 2 Stämme a ca. 0.06
+422,,,,,,,,,,,,,,,,,,,,,,,Süßkirsche,Prunus avium,0.13,5.5,4.1,Auf Gründach: 3 Stämme a ca. 0.13
+423,,,,,,,,,,,,,,,,,,,,,,,Felsenbirne,Amelanchier spec.,0.05,3.5,2.5,Auf Gründach: 3 Stämme a 0.05 
+424,,,,,,,,,,,,,,,,,,,,,,,Süßkirsche,Prunus avium,0.09,4.5,5.2,"1 qm, offene Erde, 2 Stämme a ca 0.09, Vermutung Süßkirsche"
+425,,,,,,,,,,,,,,,,,,,,,,,Echte Zypresse,Cupressus sempervirens,0.12,1.5,6.9,
+426,,,,,,,,,,,,,,,,,,,,,,,Süßkirsche,Prunus avium,0.18,4.9,3.5,BHD geschätzt 
+427,,,,,,,,,,,,,,,,,,,,,,,Bergahorn,Acer pseudoplatanus,0.18,5.8,5.4,BHD geschätzt
+428,,,,,,,,,,,,,,,,,,,,,,,Abendländischer Lebensbaum,Thuja occidentalis,0.14,2.5,7.7,2 Stämme a ca.  0.14
+429,,,,,,,,,,,,,,,,,,,,,,,Echte Feige,Ficus carica,0.08,2,2.7,
+430,,,,,,,,,,,,,,,,,,,,,,,Echte Feige,Ficus carica,0.07,1,2.4,2 Stämme a ca. 0.07
+431,,,,,,,,,,,,,,,,,,,,,,,Echte Feige,Ficus carica,0.06,1.4,2.7,
+432,,,,,,,,,,,,,,,,,,,,,,,Echte Feige,Ficus carica,0.06,1,2.6,
